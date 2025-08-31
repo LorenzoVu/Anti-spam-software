@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "timestamp_utc": "2025-08-31T15:05:32Z",
+  "timestamp_utc": "2025-08-31T20:13:15Z",
   "random_state": 42,
   "pipeline_name": "C_text_only",
   "calibrated": true,
@@ -111,5 +111,5 @@
       }
     }
   },
-  "fit_time_sec": 1.129654884338379
+  "fit_time_sec": 1.382995843887329
 }

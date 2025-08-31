@@ -1,0 +1,2348 @@
+org_norm,mentions,docs,org_raw
+Enron,3180,1085,enron
+Xls,872,476,xls
+Teco,358,223,teco
+Ami Chokshi Corp Enron,194,145,ami chokshi / corp / enron
+Txu,176,79,txu
+Ena,152,84,ena 
+Noms,148,134,noms
+Tenaska,139,77,tenaska
+Doc,137,104,doc
+Lauri,112,77,lauri
+Vance L Taylor Hou,108,76,vance l taylor / hou
+Tx,97,51,tx
+Hanks Hou,89,69,hanks / hou
+Redeliveries,88,71,redeliveries
+Aep,84,33,aep
+Enron North America Corp,80,69,enron north america corp .
+Allen Hou,77,59,allen / hou
+Aol,74,24,aol
+Exxon,63,31,exxon
+Enron Corp,61,29,enron corp
+Megan Parker Corp Enron,58,38,megan parker / corp / enron
+Valero,58,31,valero
+Ews,52,5,ews
+Pg & E,49,39,pg & e
+Mobil,49,28,mobil
+Katherine Herrera Corp Enron,49,27,katherine herrera / corp / enron
+Coastal Oil & Gas Corp,45,4,coastal oil & gas corporation
+Enron Capital & Trade Resources Corp,44,40,enron capital & trade resources corp .
+El Paso,42,29,el paso
+Speckels,40,32,speckels
+Texaco,40,26,texaco
+Ferc,36,11,ferc
+Enw,35,3,enw
+Vance L Taylor Enron,34,26,vance l taylor / enron
+Ga,33,6,ga
+Clem Cernosek,31,31,clem cernosek
+Cass Gcs Cec,31,26,cass / gcs / cec
+Superty,31,18,superty
+Enron Methanol,28,25,enron methanol
+Karen Lindley Corp Enron,28,19,karen lindley / corp / enron
+Amazon,28,5,amazon
+Howard,27,22,howard
+Joanie H Ngo Hou,27,19,joanie h ngo / hou
+Beaumont Methanol,27,10,beaumont methanol
+Mobil Beaumont,26,21,"mobil
+beaumont"
+Texas 77002,25,25,texas 77002
+Brandywine,24,13,brandywine
+Conoco,24,11,conoco
+Mips,23,13,mips
+Duke,22,11,duke
+Hesco,22,3,hesco
+Kcs,21,16,kcs
+Chevron Phillips Chemical Co,21,5,chevron phillips chemical co .
+Daren,20,19,daren .
+Stella L Morris Hou,20,16,stella l morris / hou
+Tess Ray Enron,20,12,tess ray / enron
+Ees,20,9,ees
+Hanks Enron,19,18,hanks @ enron
+Pvr,19,16,pvr
+Rita Wynne Hou,19,13,"rita
+wynne / hou"
+Jaquet,19,12,jaquet
+Yahoo,19,12,yahoo
+Lst,18,18,lst
+Clem Cernosek Hou,18,17,"clem
+cernosek / hou"
+Enron North America,18,15,enron north america
+Opm,18,9,opm
+Exxon Clear Lake,17,2,exxon clear lake
+Neuweiler,16,14,neuweiler
+Nathan L Hlavaty Hou,15,15,nathan l hlavaty / hou
+Tx 77056 Voice Mail,15,15,"tx 77056
+voice mail"
+Enron Hpl Actuals,15,13,enron / hpl actuals
+Aquila,15,10,aquila
+Warner,15,7,warner
+Staab,15,5,staab
+Gmt Inc,15,3,"gmt , inc"
+Eol,14,11,eol
+Invoice Tess,14,9,"invoice
+tess"
+Mcclure,14,6,mcclure
+Thu T Nguyen Hou,14,5,thu t nguyen / hou
+Hpl S,13,13,hpl ' s
+Connie Wester Easttexas Pefs,13,12,"connie
+wester / easttexas / pefs"
+Lotus,13,12,lotus
+Cst,13,4,cst
+Texas Nom,13,4,texas nom
+Darron C Giron Hou,12,12,"darron c
+giron / hou"
+Hpl - Feb,12,12,hpl - feb
+Mcloughlin Corp Enron,12,10,mcloughlin / corp / enron
+Eog,12,9,eog
+Exxon Katy,12,8,exxon katy
+Microsoft,12,8,microsoft
+El Paso Merchant Energy,12,6,el paso merchant energy
+D & H,12,5,d & h
+Dba Garrison Ltd,12,3,"dba garrison , ltd"
+Daren J,11,11,daren j
+Lone Star,11,11,lone star
+Luong Hou,11,9,luong / hou
+Hl & P,11,8,hl & p
+Sullivan Patti,11,8,"sullivan , patti"
+Egm,11,7,egm
+Amoco,11,6,amoco
+Nat,11,5,nat
+Koch Midstream Services Co,11,4,koch midstream services co
+Sec,11,4,sec
+Enron Americas,11,3,enron americas
+Austin Hou,10,10,austin / hou
+Dfarmer Enron,10,10,dfarmer @ enron
+Hpl - Jan,10,10,hpl - jan
+P & L,10,9,p & l
+Tx Bob,10,7,"tx
+bob"
+Aybar,10,5,aybar
+Rao,10,5,rao
+Central Power &,10,4,central power &
+Dawes,10,3,dawes
+Senate,10,3,senate
+Edward D Gottlob Hou,9,9,edward d gottlob / hou
+Energy & Utilities,9,9,energy & utilities
+Midcon Texas,9,9,midcon texas
+Scott Mills,9,9,scott mills
+Tx 77379,9,9,tx 77379
+Enron Capital Management,9,8,enron capital management
+Sr,9,7,sr
+Defs,9,6,defs
+Pg & E Texas,9,6,pg & e texas
+Kerr - Mcgee,9,5,kerr - mcgee '
+Martinez,9,4,martinez
+Jan & Feb Midcon,9,3,jan & feb midcon
+Machleit,9,3,machleit
+Reuters,9,3,reuters
+Tillison,9,1,tillison
+Aol Keyword,8,8,aol keyword :
+Bcc,8,8,bcc
+Cdnow Inc,8,8,"cdnow , inc ."
+Cp & L Shows,8,8,cp & l shows
+Crosstex Energy Services Ltd,8,8,"crosstex energy services , ltd"
+Emv,8,8,emv
+Hess Energy Svcs,8,8,hess energy svcs
+Hpl,8,8,hpl 
+Juliann Kemp,8,8,juliann kemp
+Texoma 20,8,8,texoma 20
+Cp & L,8,7,cp & l
+Harmon Hou,8,7,harmon / hou
+Josey Ranch Nom,8,7,josey ranch nom
+Mccoy Corp Enron,8,7,mccoy / corp / enron
+Scott,8,7,scott
+Connie Wester,8,6,connie wester
+Duke Energy Field Services,8,6,duke energy field services
+Exxonmobil,8,6,exxonmobil
+Katherine,8,6,katherine
+Paul Couvillon Corp Enron,8,6,paul couvillon / corp / enron
+The P & L,8,5,the p & l .
+Enron Europe,8,4,enron europe
+Nbc,8,2,nbc
+Abacus Technologies,7,7,abacus technologies
+Abacustech,7,7,abacustech
+Consemiu,7,7,consemiu
+Doc - Calpine,7,7,"doc
+- calpine"
+Eastrans,7,7,eastrans
+Fosdick,7,7,fosdick
+Giron,7,7,giron
+Hanks,7,7,hanks
+Hlavaty,7,7,hlavaty
+Houston Pipe Line,7,7,houston pipe line
+Katherine Herrera Enron,7,7,katherine herrera @ enron
+Knox Westmoreland,7,7,"knox
+westmoreland"
+Nng,7,7,nng
+Rohm & Haas,7,7,rohm & haas
+Scott Mills Hou,7,7,"scott
+mills / hou"
+Shell Deer Park - - - - - - - - - - - - - - - - - - - - - - Forwarded,7,7,"shell deer park
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Shell Deer Park Gary,7,7,"shell deer park
+gary"
+Tx 77388 - 5746,7,7,tx 77388 - 5746
+Whiting Petroleum Corp,7,7,whiting petroleum corp
+Entex,7,6,entex
+Romeo D,7,6,romeo d '
+Joanie,7,5,joanie
+Smith,7,5,"smith ,"
+Wagner & Brown Ltd,7,5,wagner & brown ltd
+Xls - Smi,7,5,"xls
+- smi"
+South Katy,7,4,south katy
+Fl,7,3,fl
+Sr Jr Rates,7,3,sr / jr rates
+E & P,7,2,e & p
+Lyondell - Citgo,7,2,lyondell - citgo
+Mgi,7,2,mgi
+United Oil & Minerals Inc,7,2,"united oil & minerals , inc ."
+Aimee,6,6,aimee
+Dupont,6,6,dupont
+Exxon Company,6,6,"exxon company ,"
+Hill,6,6,: hill
+Kcs Energy Inc,6,6,"kcs energy , inc ."
+Lilly,6,6,lilly
+Mobil Beaumont Effective,6,6,"mobil beaumont
+effective"
+Morgan S,6,6,morgan ' s
+Pcx,6,6,pcx
+Pls,6,6,pls
+Tx 77056 Voice,6,6,"tx 77056
+voice"
+Txu Nom,6,6,txu nom .
+Wagner,6,6,wagner
+Johnson Ecf Enron Enron,6,5,johnson / ecf / enron @ enron
+Kerry Roper Gpgfin Enron Enron,6,5,"kerry
+roper / gpgfin / enron @ enron"
+Miller,6,5,miller
+Mjg Inc,6,5,"mjg , inc"
+Tx 77002,6,5,tx 77002
+United Oil &,6,5,united oil &
+Citibank,6,4,citibank
+Exxon Company Usa,6,4,"exxon company , usa"
+Mobil Beaumont - Marol,6,4,mobil beaumont - marol
+Phillips,6,4,phillips
+8018 Sitara,6,3,8018 / sitara
+Baytown 12,6,3,baytown 12 ' '
+P L,6,3,p / l
+Texas A & M,6,2,texas a & m
+The Houston Exploration,6,2,the houston exploration
+California,6,1,california 
+Cps - Satx,6,1,cps - satx
+Edison,6,1,edison
+Inc Entergy,6,1,inc entergy
+New Carthage,6,1,new carthage
+Aggie,5,5,aggie
+Brandee,5,5,brandee
+Cleburne,5,5,cleburne .
+Connor - Counterparty Duke Energy & Trading Month,5,5,"connor - counterparty duke energy & trading
+month"
+Duke Energy & Trading,5,5,duke energy & trading
+Duke Energy Trading &,5,5,duke energy trading &
+Duke Energy Trading & Marketing,5,5,duke energy trading & marketing
+Eb,5,5,eb
+Ena & Hplc,5,5,ena & hplc
+Etgs Carthage Hub Tailgate,5,5,etgs carthage hub tailgate
+Hms,5,5,hms
+Houston Ship Channel,5,5,houston ship channel
+Hpl - June,5,5,hpl - june
+Hpl Ena,5,5,hpl / ena
+Jefferson Hou,5,5,jefferson / hou
+Jones,5,5,jones
+Josey Ranch Nom - - - - - - - - - - - - - - - - - - - - - - Forwarded,5,5,"josey ranch nom
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Lsp,5,5,lsp
+Mckay James Smith,5,5,"mckay , james ; smith"
+Pat Clynes Corp Enron,5,5,pat clynes / corp / enron
+Pcx - Pico 0491,5,5,"pcx
+- pico 0491"
+Samson Lone Star,5,5,samson lone star
+Sitara &,5,5,sitara &
+The Elpaso Corp,5,5,"the elpaso
+corporation"
+The Houston Exploration Company,5,5,the houston exploration company
+The Sitara Deal,5,5,the sitara deal #
+Tina Valadez,5,5,tina valadez
+Trisha Hughes Hou,5,5,"trisha
+hughes / hou"
+Wallis,5,5,wallis @
+Walters,5,5,walters
+Whiting Petroleum Corp 6523,5,5,whiting petroleum corp 6523
+Choate,5,4,choate
+Ellenberger,5,4,ellenberger
+Ford,5,4,ford
+Pennzoil,5,4,pennzoil
+Valero Marketing &,5,4,valero marketing &
+Vance L Taylor,5,4,vance l taylor
+Abc,5,3,abc
+Allen Hol,5,3,allen / hol
+Byronellis Usa,5,3,byronellis @ usa
+Cico Oil & Gas Co,5,3,cico oil & gas co .
+Greg Whiting Corp Enron,5,3,greg whiting / corp / enron
+Partner Ltd,5,3,partner ltd .
+Wc 551,5,3,wc 551
+Boeing,5,2,boeing
+Ena Rac Egf,5,2,ena / rac / egf
+Hpl D P,5,2,hpl d / p
+Mitchell Gas Services,5,2,mitchell gas services
+Ots Enron Enron,5,2,ots / enron @ enron
+Painewebber,5,2,painewebber
+Connor & Hewitt Ltd,5,1,connor & hewitt ltd
+Southern Union,5,1,southern union
+Terry Edward,5,1,"terry , edward '"
+Al Daren J,4,4,"al
+daren j"
+American Express Financial Advisors,4,4,american express financial advisors
+Arthur 1,4,4,arthur 1
+Austin Hou Ees Ees,4,4,austin / hou / ees @ ees
+Brackett Hou,4,4,brackett / hou
+Brant Reves Hou,4,4,brant reves / hou
+Brenda,4,4,brenda
+Brenda Herod &,4,4,brenda herod &
+Brian M Riley Hou,4,4,brian m riley / hou
+Cfp,4,4,cfp
+Chan,4,4,chan
+Clem,4,4,clem
+Comstock Oil & Gas Inc,4,4,"comstock oil & gas , inc ."
+Cp & L On Feb,4,4,cp & l on feb .
+Dave Enron North America Corp,4,4,"dave
+enron north america corp ."
+Donnie Mccabe Gco Enron Enron,4,4,"donnie
+mccabe / gco / enron @ enron"
+East Texas,4,4,east texas
+Ena Sells,4,4,ena sells
+Eog Resources,4,4,eog resources
+Falbaum Hou,4,4,falbaum / hou
+Hs,4,4,hs
+Joa,4,4,joa
+Jpg,4,4,jpg
+Katherine L Kelly Hou,4,4,katherine l kelly / hou
+Kerr - Mcgee Oil & Gas Onshore L,4,4,kerr - mcgee oil & gas onshore l
+Kingwood Cove Golf,4,4,kingwood cove golf
+Martin Hou,4,4,martin / hou
+Meredith Mitchell Hou,4,4,"meredith
+mitchell / hou"
+Miller - Albrecht,4,4,miller - albrecht
+Mjg Corp,4,4,"mjg , corp ."
+Nelson Ferries Corp Enron,4,4,nelson ferries / corp / enron
+Nom Mcf Mmbtu,4,4,nom mcf mmbtu
+Payne - Ballard,4,4,payne - ballard
+Prudential,4,4,prudential
+Shell Deer Park,4,4,shell deer park
+Smith Enron,4,4,smith @ enron
+Smith Street,4,4,smith street
+Stephanie Gomes 04,4,4,stephanie gomes 04
+Sweeney Enron,4,4,sweeney @ enron
+The East Texas Redelivery,4,4,the east texas redelivery
+The Hoff Heller Gas Unit,4,4,the hoff heller gas unit
+The Mcnic Noms,4,4,the mcnic noms
+Tx 77380,4,4,tx 77380
+Tx 77388,4,4,tx 77388
+Tx Debbie,4,4,"tx
+debbie"
+Tx Lal,4,4,"tx
+lal"
+Tx Lisa,4,4,"tx
+lisa"
+Tx Shawna,4,4,"tx
+shawna"
+Un,4,4,un
+Vlt Daren J,4,4,"vlt
+daren j"
+Walter Oil & Gas,4,4,walter oil & gas
+Webb Enron,4,4,webb @ enron
+104,4,3,104
+Ac,4,3,ac
+Americas Inc,4,3,"americas , inc ."
+Cummins & Walker,4,3,cummins & walker
+Dbq,4,3,dbq
+Parker Corp Enron,4,3,parker / corp / enron
+Shawna Flynn Hou,4,3,"shawna
+flynn / hou"
+Tw,4,3,tw
+2 27 & 2 28,4,2,2 / 27 & 2 / 28
+Altra Gms,4,2,altra gms
+Dfs,4,2,dfs
+Ena & Praxair,4,2,ena & praxair
+Enron South America,4,2,enron south america
+Jason Althaus Corp Enron,4,2,jason althaus / corp / enron
+Laporte,4,2,laporte
+Mobil Beaumont Refinery,4,2,mobil beaumont refinery
+Mobil Chemical Robert,4,2,"mobil chemical
+robert"
+Shane & Shelley,4,2,shane & shelley
+Sony,4,2,sony
+Tejas Pipeline,4,2,tejas pipeline
+Texas General Land Office,4,2,texas general land office
+Union Gas Corp,4,2,union gas corp .
+Xls - Ei,4,2,"xls
+- ei"
+Devon Pdn,4,1,devon pdn
+Moody Gardens Hotel,4,1,moody gardens hotel
+Nyu,4,1,nyu
+Pentagon,4,1,pentagon
+5 & 6,3,3,5 & 6
+Aep Hpl,3,3,aep / hpl
+Aep Hpl 96060798,3,3,aep / hpl ( 96060798
+Aimee Enron North America Corp,3,3,"aimee
+enron north america corp ."
+Apache Corp,3,3,apache corp
+Auburndale Street Livonia,3,3,"auburndale street
+livonia"
+Bayer,3,3,bayer
+Bruce Sukaly Corp Enron,3,3,bruce sukaly / corp / enron
+Buddy - Daren,3,3,buddy - daren
+Cass Gcs Cec Pec,3,3,cass / gcs / cec / pec
+Chevron,3,3,chevron
+Commonwealth Energy Services Ces - Samuel Gary Jr,3,3,"commonwealth energy
+services
+ces - samuel gary jr ."
+Corpus Christi,3,3,corpus christi
+Costilla,3,3,costilla
+Cove Golf Association,3,3,cove golf association
+Cynthia Meredith,3,3,cynthia / meredith
+Daren - Pat,3,3,daren - pat
+Delta Air Lines Inc,3,3,"delta air lines , inc ."
+Eastrans To,3,3,eastrans to
+Eastrans To 65,3,3,eastrans to 65
+Eb 3143,3,3,eb 3143
+Egp,3,3,egp
+El Paso Energy Corp,3,3,"el paso
+energy corporation"
+Enron Hpl Actuals For,3,3,enron / hpl actuals for
+Fig Orchard,3,3,fig orchard (
+Franklin,3,3,franklin
+Fred & Stephanie - Meter 6757,3,3,fred & stephanie - meter 6757
+Friedman Hou,3,3,friedman / hou
+Holly Heath Corp Enron,3,3,holly heath / corp / enron
+Hpl 12,3,3,"hpl
+12"
+Hpl Daren,3,3,"hpl
+daren"
+Hpl Gco Enron,3,3,hpl / gco / enron
+Jm,3,3,jm
+Katherine Herrera 04 16 2001 12,3,3,"katherine herrera
+04 / 16 / 2001 12"
+Katherine Herrera 04 20 2000 08,3,3,"katherine herrera
+04 / 20 / 2000 08"
+Kathryn Cordes Hou,3,3,kathryn cordes / hou
+Kelly Templeton Corp Enron Enron,3,3,"kelly
+templeton / corp / enron @ enron"
+Kenne Hou,3,3,kenne / hou
+Koch Midstream Services Co Please,3,3,"koch midstream services co
+please"
+Lee 3,3,3,"lee
+3 ."
+Llp,3,3,llp
+Logon,3,3,logon
+Lsp Enserch,3,3,lsp / enserch
+Lyondell,3,3,lyondell
+Maritta Mullet,3,3,"maritta
+mullet"
+Meter 74 - Transco,3,3,meter 74 - transco
+Midcon Texas Gas Services,3,3,midcon texas gas services
+Midcon Texas Gas Services Corp,3,3,midcon texas gas services corp
+Midcon Texas Pipeline Corp,3,3,midcon texas pipeline corp
+Moody Gardens,3,3,moody gardens
+Mtr,3,3,mtr
+Mtr 1373,3,3,mtr 1373
+Nelson Ferries Corp Enron Enron,3,3,nelson ferries / corp / enron @ enron
+North Central Corp,3,3,north central corp
+Npi 883,3,3,npi 883
+Pamela Chambers Corp Enron,3,3,pamela chambers / corp / enron
+Pdf,3,3,pdf
+Pgtt - Teco Katy,3,3,"pgtt - teco
+katy"
+Pgtt - Teco Waha 18002800,3,3,pgtt - teco waha 18002800
+Praxair Inc,3,3,"praxair , inc ."
+Randall L,3,3,randall l
+Rich Hill,3,3,rich hill
+Rodney Rogers Gco Enron Enron,3,3,"rodney
+rogers / gco / enron @ enron"
+Scada,3,3,scada
+Shonnie Daniel Hou,3,3,shonnie daniel / hou
+Sitara,3,3,sitara #
+Sitara 130917,3,3,sitara # 130917
+Smith Street Houston,3,3,"smith street
+houston"
+Stratton,3,3,stratton
+Stuart,3,3,stuart
+Svs,3,3,svs
+Termination & Expiration,3,3,termination & expiration
+Tesoro,3,3,tesoro
+Texas 77339,3,3,texas 77339
+Texas Eastern,3,3,texas eastern
+Texas Glo,3,3,texas glo
+The Clearlake Methanol Plant,3,3,"the clearlake methanol
+plant"
+The Houston Exploration Co,3,3,the houston exploration co
+The Texas General Land Office Transport Volume,3,3,the texas general land office transport volume
+Tom Acton Corp Enron,3,3,tom acton / corp / enron
+Txu Lonestar,3,3,txu / lonestar
+Valero Texoma,3,3,valero texoma
+Vcf,3,3,vcf
+Walter O & G,3,3,walter o & g
+Webb,3,3,webb
+Wilma Easter,3,3,wilma easter
+Zajac Hou,3,3,zajac / hou
+Beamont Methanol,3,2,beamont methanol
+Cdp,3,2,cdp
+Chyral Hankins,3,2,chyral hankins 
+Dale,3,2,dale
+Dev,3,2,dev .
+Enron Energy Services,3,2,enron energy services
+Ets,3,2,ets
+Expedia Inc,3,2,"expedia , inc ."
+Flagstaff,3,2,flagstaff
+Gasper Rice Ltd,3,2,"gasper rice , ltd ."
+Lindholm Oil Inc,3,2,"lindholm oil , inc ."
+Mary Comello Corp Enron,3,2,mary comello / corp / enron
+Nom - Kcs,3,2,nom - kcs
+Parker Enron,3,2,parker @ enron
+Slc,3,2,slc
+The Enron Corp,3,2,the enron corp .
+The United States,3,2,"the united
+states"
+Unocal,3,2,unocal
+Vp &,3,2,vp &
+0 Enron,3,1,0 / enron
+Abdul - Raheem,3,1,abdul - raheem
+Alamo,3,1,alamo
+Cpr Pipeline Exchange,3,1,cpr pipeline exchange
+Delta Air Lines,3,1,delta air lines
+Ena Treasury,3,1,"ena
+treasury"
+Epp,3,1,epp
+Fbi,3,1,fbi
+Gop,3,1,gop
+Hubco,3,1,hubco
+Intuit,3,1,intuit
+Jackson Na Enron,3,1,jackson / na / enron
+Lower Colorado River Authority,3,1,lower colorado river authority
+Tamu,3,1,tamu
+Teco Inc,3,1,"teco , inc ."
+Wagner & Brown,3,1,wagner & brown
+Wc 45,3,1,wc 45
+Wc 533,3,1,wc 533
+4 1 & 4 2,2,2,4 / 1 & 4 / 2
+7 00 And,2,2,7 / 00 and
+Aep 12 Th,2,2,aep 12 th
+Agenda Recap Fyi,2,2,"agenda recap
+fyi"
+Aimee S,2,2,aimee ' s
+Alexus Rhone Corp Enron,2,2,"alexus
+rhone / corp / enron"
+Allen 02,2,2,"allen
+02"
+Allen 02 04 2000 01,2,2,"allen
+02 / 04 / 2000 01"
+Allen 04 19 2000 02,2,2,"allen
+04 / 19 / 2000 02"
+Anadarko Petr,2,2,anadarko petr
+Anr,2,2,anr
+Apache,2,2,apache
+Apache & Williams,2,2,apache & williams
+Army,2,2,army
+Att,2,2,att
+Baumbach Enron,2,2,baumbach @ enron
+Bayer - March 2001,2,2,bayer - march 2001
+Beau Canada Exploration Ltd Bau Cn Belco Oil & Gas Corp Bog Bonus Resource Services Corp,2,2,"beau canada exploration ltd bau cn
+belco oil & gas corporation bog
+bonus resource services corp"
+Beaumont Methanol For,2,2,beaumont methanol for
+Black Marlin Pipeline Company Inc,2,2,black marlin pipeline company inc .
+Bou Brigham Exploration Bexp Canfibre Group Ltd,2,2,"bou
+brigham exploration bexp
+canfibre group ltd"
+Brandywine - Under,2,2,"brandywine -
+under"
+Bruce,2,2,bruce
+Burlington,2,2,burlington
+Camden & North Central,2,2,camden & north central
+Camden Resources Inc,2,2,"camden resources , inc ."
+Candace L Bywaters,2,2,"candace l
+bywaters"
+Carrizo Oil & Gas Inc,2,2,carrizo oil & gas inc .
+Carthage,2,2,carthage
+Ces - Duke,2,2,ces - duke
+Charlene L Richmond Hol,2,2,charlene l richmond / hol
+Charles Ward Corp Enron,2,2,charles ward / corp / enron
+Charlotte Aimee,2,2,charlotte / aimee
+Charlotte Hawkins,2,2,"charlotte
+hawkins"
+Church & Go,2,2,church & go
+Cleburne Plant,2,2,cleburne plant
+Coastal Oil & Gas Corp Daren,2,2,"coastal oil & gas corporation
+daren"
+Columbia Gas,2,2,columbia gas
+Compaq,2,2,compaq
+Connie Sutton Hou,2,2,connie sutton / hou
+Conoco Inc,2,2,"conoco , inc ."
+Costilla Energy Cose Crown Energy Croe Cynet Inc,2,2,"costilla energy cose
+crown energy croe
+cynet , inc"
+Cp & L Charlotte,2,2,"cp & l
+charlotte"
+Crosstex Energy Svcs,2,2,crosstex energy svcs
+Cyne Cypress,2,2,"cyne
+cypress"
+Danex Energy Company,2,2,danex energy company
+Daren & Tom,2,2,daren & tom
+Daren - Fyi,2,2,daren - fyi
+Daren Farmer Ext,2,2,daren farmer ext
+Daren O,2,2,daren / o '
+Devon Energy Corp,2,2,devon energy corporation
+Dewey,2,2,dewey
+Donald Mary Poorman Enron,2,2,"donald
+mary poorman @ enron"
+Duke - Energy,2,2,duke - energy
+Duke Carthage,2,2,duke carthage
+Ecs,2,2,ecs
+Ecs Project Enron,2,2,"ecs project
+enron"
+Eddie,2,2,eddie
+Edi,2,2,edi
+Edith,2,2,edith
+Edith Cross,2,2,edith cross
+Ei,2,2,ei
+El Paso Affiliate,2,2,el paso affiliate
+Ena &,2,2,ena &
+Ena - Cxl,2,2,ena - cxl
+Ena Texas,2,2,ena texas
+Ene,2,2,ene
+Enron Canada,2,2,enron canada
+Enron Transportation Services,2,2,enron transportation services
+Eott,2,2,eott
+Ernie,2,2,ernie
+Exxon Vance,2,2,"exxon
+vance"
+Fed,2,2,fed
+Firstworld Communications Inc,2,2,firstworld communications inc .
+Fld 985982,2,2,"fld
+985982"
+Fwis Hanover Compressor Co,2,2,"fwis
+hanover compressor co"
+Gcp,2,2,gcp
+High Sierra,2,2,high sierra
+Highland Energy Company,2,2,highland energy company
+Hilliard Ext,2,2,"hilliard
+ext"
+Hodge,2,2,hodge
+Houston Pipe,2,2,houston pipe
+Hpl - Dec,2,2,hpl - dec
+Hpl - July,2,2,hpl - july
+Hpl 2,2,2,"hpl
+2"
+Hpl 9,2,2,"hpl
+9"
+Hpl Aquila,2,2,hpl / aquila
+Hpl Cheryl,2,2,"hpl
+cheryl"
+Hpl Eastrans,2,2,hpl / eastrans
+Hsc - 0,2,2,hsc - 0
+Hughes & Hughes,2,2,hughes & hughes
+Hy Home Address,2,2,hy home address
+Idf,2,2,idf
+Iferc & Sds Noms,2,2,iferc & sds noms
+Ihii Inland Resources Inc,2,2,"ihii
+inland resources , inc ."
+Inln Kafus Environmental Industries Inc,2,2,"inln
+kafus environmental industries , inc"
+Jillian,2,2,jillian
+Jim Pond Corp Enron,2,2,jim pond / corp / enron
+Jim Southwest Airlines,2,2,jim southwest airlines
+Joann,2,2,joann
+Julissa Marron Corp Enron,2,2,julissa marron / corp / enron
+K - 2 12,2,2,k - 2 12
+K 3949,2,2,k # 3949
+K S,2,2,k ' s
+Katherine Herrera 04 16 2001,2,2,"katherine herrera
+04 / 16 / 2001"
+Katy Carthage,2,2,katy / carthage
+Killen Hou,2,2,killen / hou
+Kris Tina Valadez,2,2,"kris
+tina valadez"
+Laura Harder Corp Enron Enron,2,2,laura harder / corp / enron @ enron
+Laynie,2,2,laynie
+Lincoln,2,2,lincoln
+Llc W,2,2,"llc
+w"
+Lng - Europe Eric,2,2,"lng - europe
+eric"
+Lockhart,2,2,lockhart
+Lomak - Sterling & Mendell Cdp,2,2,lomak - sterling & mendell cdp
+Lone Star Pipeline Lisa Mcauliff,2,2,"lone star pipeline
+lisa mcauliff"
+Lynx Energy Company Inc,2,2,"lynx energy company , inc"
+Melissa Darren Global,2,2,"melissa / darren
+global"
+Melissa Jones Texas,2,2,"melissa
+jones / texas"
+Microsoft Outlook Cws,2,2,microsoft outlook cws
+Midcoast 5097 92956 - No,2,2,midcoast / 5097 92956 - no
+Mike Morris &,2,2,mike morris &
+Mjg,2,2,mjg
+Mm - & - 7 5,2,2,mm - & - 7 / 5
+Mobil Beaumont 981040,2,2,mobil beaumont # 981040
+Mobil Beaumont Brian Nichols,2,2,"mobil beaumont
+brian nichols"
+Mobil Beaumont Rebecca,2,2,"mobil beaumont
+rebecca :"
+Mobil Chemical,2,2,mobil chemical
+Monson Hou,2,2,monson / hou
+Mtd,2,2,mtd
+Mtp,2,2,mtp
+Nakornthai Strip Mill Public Co Ltd Nsm,2,2,nakornthai strip mill public co ltd nsm
+Nathan L Hlavaty,2,2,"nathan l
+hlavaty"
+Netco,2,2,netco
+Ngi,2,2,ngi
+Ninfa S,2,2,ninfa ' s
+Noms Bridge Back - Hpl Hpl & Ena Mike 3 - 5796,2,2,"noms
+bridge back - hpl / hpl & ena
+mike 3 - 5796"
+Oakville & Moore,2,2,oakville & moore
+Oasis & Midcon,2,2,oasis & midcon
+Ocean Energy Inc,2,2,ocean energy inc .
+Oec,2,2,oec
+Ols,2,2,ols
+Oplc Daren,2,2,"oplc
+daren"
+Oracle Database,2,2,oracle database
+P & A D,2,2,p & a ' d
+Pacific Interlink,2,2,pacific interlink
+Paladin Resources Plc,2,2,paladin resources plc
+Pan Energy S,2,2,pan energy ' s
+Pierce,2,2,pierce
+Qsri Quicksilver Resources Inc,2,2,"qsri
+quicksilver resources inc ."
+Questar,2,2,questar
+Randy,2,2,randy 
+Rick Hill & Jody Pierce,2,2,rick hill & jody pierce
+Ricks,2,2,ricks
+Rita,2,2,rita
+Robert Walker Hou,2,2,"robert
+walker / hou"
+S & Ebb S,2,2,s & ebb ' s
+S Cleburne Facility,2,2,s cleburne facility
+Sabra L,2,2,sabra l
+Samson Lonestar 9845 2,2,2,samson lonestar 9845 2
+Sanchez Oil & Gas,2,2,sanchez oil & gas
+Sandi Ext,2,2,"sandi
+ext"
+Sap Isc,2,2,sap / isc
+Scada Mips,2,2,scada / mips
+Schulte Corp Enron Enron,2,2,schulte / corp / enron @ enron
+Scott Mills 08,2,2,scott mills 08
+Scott Pleus Enron,2,2,scott pleus / enron
+Shahnaz,2,2,shahnaz
+Shell,2,2,shell
+Shell Deer Park Fyi,2,2,"shell deer park
+fyi"
+Shoemake,2,2,shoemake
+Smith L,2,2,smith l
+Southern Union Company Texas Utilities Fuel Company,2,2,"southern union company
+texas utilities fuel company"
+Stacey,2,2,stacey
+Startech,2,2,startech
+Stella L Morris 02 10 2000 02,2,2,stella l morris 02 / 10 / 2000 02
+Steve S,2,2,steve ' s
+Suemaur Explor & Prod,2,2,suemaur explor & prod
+Sukaly Enron,2,2,sukaly @ enron
+T & E Transportation & Exchange,2,2,t & e ( transportation & exchange
+Tackett Owner,2,2,"tackett
+owner"
+Talon Consulting Inc,2,2,"talon consulting , inc ."
+Tec Energy Corp,2,2,tec energy corp .
+Teco Frontera,2,2,teco frontera
+Teco Pipeline Co,2,2,teco pipeline co
+Tejas Gas - Daren,2,2,tejas gas - daren
+Tejas Laporte,2,2,tejas laporte
+Tejon Ranch Corp,2,2,tejon ranch corp
+Texoma 30,2,2,texoma 30
+The Gepl Big Cowboy Point,2,2,the gepl big cowboy point
+The New &,2,2,the new &
+The Texas Gulf Coast,2,2,the texas gulf coast
+The Waha Transportation,2,2,the waha transportation
+Theresa Staab Corp Enron,2,2,theresa staab / corp / enron
+Thu T Nguyen 04,2,2,thu t nguyen 04
+United O & M,2,2,united o & m
+Us & Canada,2,2,us & canada
+Vonda Seckler,2,2,vonda seckler
+Waha & 2,2,2,waha & 2
+Walker,2,2,walker
+Walter Oil &,2,2,walter oil &
+Washington Hou,2,2,washington / hou
+Westvaco,2,2,westvaco
+Weygandt,2,2,weygandt
+Williams & Apache,2,2,williams & apache
+Williston East - Cove,2,2,"williston
+east - cove"
+Wtc,2,2,wtc
+Wynne Enron,2,2,wynne @ enron
+Xls - Smi 23,2,2,"xls
+- smi 23"
+& Other,2,1, & other
+Astra Power Llc,2,1,astra power llc
+Baptist Church,2,1,baptist church
+Brandywine Dupont,2,1,brandywine / dupont
+Chris Hanz Corp Enron,2,1,chris hanz / corp / enron
+Cindy Cicchetti Hou,2,1,cindy cicchetti / hou
+Coastal Oil & Gas Usa,2,1,coastal oil & gas usa
+Crosstex Energy Services,2,1,crosstex energy services
+Cynthia Morrow Corp Enron,2,1,cynthia morrow / corp / enron
+Delta,2,1,delta
+Diomedes,2,1,diomedes
+Dow Jones & Company Inc,2,1,"dow jones & company , inc ."
+Dynegy Inc,2,1,dynegy inc .
+Eb - 2419,2,1,eb - 2419
+Eb - 3658,2,1,eb - 3658
+Eb 21,2,1,eb 21
+Ec 254,2,1,ec 254
+Ec 335,2,1,ec 335
+Enbridge,2,1,enbridge
+Enron Apachi,2,1,enron apachi
+Enron Corp Meter,2,1,"enron corp
+meter"
+Enron Global Technology,2,1,enron global technology
+Enron Power Marketing Inc,2,1,enron power marketing inc .
+Eoe,2,1,eoe
+Espn,2,1,espn
+Exxonmobil Beaumont,2,1,exxonmobil beaumont
+Exxonmobil Corp,2,1,exxonmobil corp .
+Ferc Authority,2,1,ferc authority
+First United Methodist Church,2,1,first united methodist church
+Gmt Company Inc,2,1,gmt company inc
+Gpa,2,1,gpa
+Houston Gas &,2,1,houston gas &
+Imai,2,1,imai
+Midcon 9401,2,1,midcon 9401
+Nahou - Scada 2,2,1,nahou - scada 2
+Newton Enron,2,1,newton @ enron
+Nopr,2,1,nopr
+Ny Jfk,2,1,ny ( jfk
+Pdc,2,1,pdc
+Pg & E Texas Pipeline,2,1,pg & e texas pipeline
+Prod Est,2,1,prod est
+Rd,2,1,rd
+Rockefeller,2,1,rockefeller
+Rosa Brown Corp Enron,2,1,rosa brown / corp / enron
+Sanchez Oil &,2,1,sanchez oil &
+Shoreline Gas Inc,2,1,shoreline gas inc .
+Stella L Morris,2,1,stella l morris
+Stuebner,2,1,stuebner
+Sybase 12,2,1,sybase 12
+T Ena - Tx,2,1,t ena - tx
+Teco Tap Nom,2,1,teco tap nom .
+Teco Trading Conf,2,1,teco trading conf
+The Bankruptcy Management Committee,2,1,the bankruptcy management committee
+The Kansas Senate,2,1,the kansas senate
+The Supreme Court,2,1,the supreme court
+The Texas Gas Trading Group,2,1,the texas gas trading group
+The Williams & Apache,2,1,the williams & apache
+Thomas Enron,2,1,thomas / enron
+Txu Electric & Gas,2,1,txu electric & gas
+Vastar Resources Inc,2,1,"vastar resources , inc ."
+Villarreal Enron,2,1,villarreal @ enron
+Wc 534,2,1,wc 534
+Weissman,2,1,weissman
+& Basics,1,1, & basics
+& Bulletin Board,1,1, & bulletin board
+& Maximum,1,1, & maximum
+1 & 2,1,1,1 & 2
+10 & Eid,1,1,10 & eid
+1394 Sitara,1,1,1394 / sitara # :
+4 4 & 4 5,1,1,4 / 4 & 4 / 5
+7 00,1,1,7 / 00
+7 7 00,1,1,7 / 7 / 00
+900 Western Gulf,1,1,"900
+western gulf"
+Abb Alstom Power Inc,1,1,abb alstom power inc
+Abb Asltom Power Inc,1,1,abb asltom power inc
+Abc E - Mail,1,1,abc e - mail
+Abercrombie,1,1,abercrombie
+Acosta Ots Enron Enron,1,1,acosta / ots / enron @ enron
+Adam 7030,1,1,adam @ 7030
+Adams,1,1,adams
+Adonis 51862,1,1,adonis # 51862
+Adrial Boals Corp Enron,1,1,adrial boals / corp / enron
+Adrian Resources,1,1,adrian resources
+Adtra Resources Inc,1,1,"adtra resources , inc"
+Aep - Houston,1,1,aep - houston
+Aep Corp,1,1,aep corp
+Aep Corpaorate,1,1,aep corpaorate
+Aep Deals,1,1,aep deals
+Aggie 97,1,1,aggie 97
+Agua Dulce Gdp,1,1,agua dulce gdp
+Aimee Daren J,1,1,"aimee
+daren j"
+Aimee Lannou 02,1,1,aimee lannou 02
+Aimee Lannou Hou,1,1,"aimee
+lannou / hou"
+Aka Ponderosa Pine Energy Partners,1,1,aka ponderosa pine energy partners
+Aladdin,1,1,aladdin
+Alamo - 143974,1,1,alamo - # 143974
+Alan Marsh Corp Tax,1,1,alan marsh ( corp tax
+Alexus Rhone Enron,1,1,alexus rhone @ enron
+Allen 01 09 2001 03,1,1,"allen
+01 / 09 / 2001 03"
+Allen 08,1,1,"allen
+08"
+Allen 12,1,1,"allen
+12"
+Allen 12 09 99 01,1,1,"allen
+12 / 09 / 99 01"
+Allen 12 19 2000 10,1,1,"allen
+12 / 19 / 2000 10"
+Alv,1,1,alv
+Alvin Thompson Corp Enron Enron,1,1,"alvin
+thompson / corp / enron @ enron"
+Alysia Autry Cingular,1,1,"alysia autry
+cingular"
+America Walker,1,1,"america
+walker"
+American Coal,1,1,american coal 
+American Dollars,1,1,american dollars
+Amit Walia,1,1,amit walia
+Amoco 08 22 00 Bp Energy Company,1,1,"amoco 08 / 22 / 00 bp energy
+company"
+Amoco Third Party,1,1,"amoco third
+party"
+Anadarko Canada Corp,1,1,anadarko canada corporation
+Anadarko Petroleum Corp,1,1,anadarko petroleum corp .
+Anc,1,1,anc
+Angie Zeman Corp Enron Enron,1,1,"angie
+zeman / corp / enron @ enron"
+Anna Cola,1,1,anna cola
+Anp,1,1,anp
+Anp Co Team,1,1,anp co team
+Apache Corp 0435,1,1,apache corp . 0435
+Apache Corp 1,1,1,apache corp 1
+Apache Vernon Tiger,1,1,"apache
+vernon tiger"
+Aqr Napvn,1,1,"aqr , napvn"
+Aquila 10,1,1,aquila 10
+Aquila Dallas,1,1,aquila dallas
+Aquila Energy Marketing Corp,1,1,aquila energy marketing corporation
+Aquila Fyi Daren - - - On,1,1,"aquila
+fyi
+daren - - - on"
+Asp Expedia,1,1,"asp
+expedia"
+Asst,1,1,asst
+Asterman,1,1,asterman
+Astra Daren,1,1,"astra
+daren"
+Atr Service,1,1,atr service
+Aucoin Hou,1,1,aucoin / hou
+Audubon,1,1,audubon
+Aurora,1,1,aurora
+Avenueb,1,1,avenueb
+Avril Forster Corp Enron Enron,1,1,"avril
+forster / corp / enron @ enron"
+Axxyv,1,1,axxyv
+Baker Central,1,1,baker central
+Bank America,1,1,bank america '
+Barry L,1,1,barry l .
+Basf,1,1,basf
+Becky Klussman Corp,1,1,becky klussman ( corp )
+Beemer Ftworth Pefs,1,1,beemer / ftworth / pefs
+Behney,1,1,behney
+Bell,1,1,bell
+Bellamy,1,1,bellamy
+Benjamin,1,1,benjamin
+Bennett Kaufman Hou,1,1,"bennett
+kaufman / hou"
+Bentley,1,1,bentley
+Bernice Rodriguez Enw,1,1,bernice rodriguez ( enw
+Bharathi Hou,1,1,bharathi / hou
+Bhd,1,1,bhd
+Bhwbq Crjgr Sqvfofu Bejttroci,1,1,"bhwbq crjgr sqvfofu
+bejttroci"
+Billy Lemmons Corp Enron,1,1,billy lemmons / corp / enron
+Bjd - Ess Corp,1,1,bjd - ess corp
+Bkhlr Rkbuh Tbnbi Couejsof - Tcqcmtpx - Ygsiquk,1,1,"bkhlr
+rkbuh tbnbi couejsof - tcqcmtpx - ygsiquk"
+Black Corp Enron Enron,1,1,black / corp / enron @ enron
+Blackstone Financial Advisors,1,1,blackstone financial advisors
+Blake Lasuzzo Corp Enron,1,1,blake lasuzzo / corp / enron
+Blake Walker,1,1,blake walker
+Blanca Lopez,1,1,blanca lopez
+Boston Globe,1,1,boston globe
+Boston Herald,1,1,boston herald
+Bp Amoco,1,1,"bp
+amoco"
+Bpw,1,1,bpw
+Bradley J,1,1,bradley j
+Brandon Whittaker Enron,1,1,"brandon
+whittaker / enron"
+Brawner,1,1,brawner
+Brazos 368,1,1,brazos 368
+Breedlove,1,1,breedlove
+Bridgeline Gas Marketing Llc,1,1,bridgeline gas marketing llc
+Bridgeline Llc,1,1,bridgeline llc .
+Broderick Paul J,1,1,"broderick , paul j"
+Bruce Mcmills,1,1,"bruce
+mcmills"
+Bruce Mills Corp Enron,1,1,bruce mills / corp / enron
+Bryant S,1,1,bryant ' s
+Btw Koch & Duke,1,1,btw koch & duke
+Burnell N,1,1,burnell / n
+Bye Enron North America Corp,1,1,"bye
+enron north america corp ."
+Byron &,1,1,"byron
+ &"
+Calger,1,1,calger
+Calme Corp,1,1,"calme , corp"
+Calme International Public Relations,1,1,calme international public relations
+Campbell,1,1,campbell
+Canada Accounting,1,1,canada accounting 
+Canada Origination & Trading - Calgary,1,1,canada origination & trading - calgary
+Candace,1,1,candace
+Canedy Frank,1,1,"canedy , frank"
+Capitol Switchboard,1,1,capitol switchboard
+Caroline Abramo Corp Enron Enron,1,1,"caroline
+abramo / corp / enron @ enron"
+Caroline Lothian,1,1,caroline lothian
+Caron Stark,1,1,caron stark
+Carrabine Corp Enron,1,1,carrabine / corp / enron
+Carrizo Oil & Gas,1,1,carrizo oil & gas
+Carthage Gas,1,1,"carthage
+gas"
+Carver Hou,1,1,carver / hou
+Cassandra Pollack Corp Enron,1,1,cassandra pollack / corp / enron
+Cavalier Oil &,1,1,cavalier oil &
+Cavalier Oil & Gas,1,1,cavalier oil & gas
+Cbs,1,1,cbs
+Cca,1,1,cca
+Cchsda,1,1,cchsda
+Ccokinos Compuserve,1,1,ccokinos @ compuserve
+Cdp 986581 Sanger Heirs,1,1,"cdp
+986581 sanger heirs"
+Cdp Daren,1,1,"cdp
+daren :"
+Central America Origination,1,1,central america origination 
+Cfp V,1,1,cfp  v
+Cfrnwopom Gyetr Gmxeml Iavlwbji,1,1,cfrnwopom gyetr gmxeml iavlwbji
+Cgsyzdek Duke - Energy,1,1,cgsyzdek @ duke - energy
+Cgw,1,1,cgw
+Channel Agua Dulce,1,1,channel agua dulce
+Chantelle Oliver,1,1,"chantelle
+oliver"
+Chantelle Villanueva,1,1,"chantelle
+villanueva"
+Charlene Cindy Charles,1,1,charlene / cindy / charles :
+Charlene Richmond Hou,1,1,"charlene
+richmond / hou"
+Charlotte Hawkins 04 04 2000 01,1,1,charlotte hawkins 04 / 04 / 2000 01
+Charlotte Lauri,1,1,"charlotte
+lauri"
+Charlotte Powell,1,1,"charlotte
+powell"
+Chevondra,1,1,chevondra
+Chevrontexaco,1,1,chevrontexaco
+Chicago Sun - Times,1,1,chicago sun - times
+Chicago Tribune 800,1,1,chicago tribune ( 800
+Chris Riegler Corp Enron,1,1,chris riegler / corp / enron
+Christian Lebroc Corp Enron,1,1,christian lebroc / corp / enron
+Cima,1,1,cima
+Cinco Ranch,1,1,cinco ranch
+Cindy Horn Hou,1,1,cindy horn / hou
+Cisco Systems,1,1,"cisco
+systems"
+Citigroup,1,1,citigroup
+Citigroup Inc,1,1,citigroup inc .
+City Gate,1,1,city gate
+Clair Eb 4539,1,1,"clair
+eb 4539"
+Clair Enron,1,1,clair @ enron
+Clark Electric,1,1,clark electric
+Clarke - Porter,1,1,clarke - porter
+Claudia Johnson Enron,1,1,claudia johnson / enron
+Cleburne Daren & John,1,1,"cleburne
+daren & john"
+Cleco Energy,1,1,cleco energy
+Clem Cernosek 12,1,1,"clem cernosek
+12"
+Clem Cernosek Ect,1,1,clem cernosek @ ect
+Clinton,1,1,clinton
+Clt,1,1,clt
+Clu,1,1,clu
+Clubcorp,1,1,clubcorp
+Cmwpuk Wvyscckzd,1,1,cmwpuk wvyscckzd
+Cnn,1,1,cnn
+Coleman Corp Enron,1,1,coleman / corp / enron
+Columbia,1,1,columbia
+Columbus Energy Corp,1,1,columbus energy corp
+Columbus Energy For March,1,1,"columbus energy for
+march"
+Comair,1,1,comair
+Comc,1,1,comc
+Commonwealth,1,1,commonwealth
+Commonwealth Edison Company,1,1,commonwealth edison company
+Companies,1,1,companies 
+Comstock Oil & Gas 9878,1,1,comstock oil & gas 9878
+Congress,1,1,congress
+Connie Sutton,1,1,connie sutton
+Conoco - Big Cowboy,1,1,conoco - big cowboy
+Conoco - Big Cowboy Bob Can,1,1,"conoco - big cowboy
+bob :
+can"
+Conoco - Big Cowboy Megan,1,1,"conoco - big cowboy
+megan"
+Corby Goodman,1,1,"corby
+goodman"
+Cordell,1,1,cordell
+Cornhusker Darren,1,1,"cornhusker
+darren"
+Corp 986411,1,1,corp 986411
+Costilla & Walter,1,1,"costilla &
+walter"
+Costilla Energy And,1,1,"costilla
+energy and"
+Costilla Pilgreen,1,1,costilla pilgreen 
+Cottonwood Rm Last,1,1,cottonwood rm last
+Cottonwood Rm Last Name,1,1,cottonwood rm last name
+Counterparty - Gsf Energy Llc,1,1,"counterparty - gsf
+energy , llc ."
+Cousino,1,1,cousino @
+Cove Point,1,1,cove point
+Cowboy Darren,1,1,"cowboy
+darren"
+Cox Exploration,1,1,cox exploration
+Cox Exploration On Pg & E,1,1,cox exploration on pg & e
+Cp & L For,1,1,cp & l for
+Cpl,1,1,cpl
+Cpr Sitara Portfolio N,1,1,"cpr sitara portfolio
+n"
+Craig Run Economic Firm Books,1,1,"craig
+run economic firm books"
+Creditor Dynegy Corp,1,1,creditor dynegy corp .
+Crosstex,1,1,crosstex
+Crum Lesley,1,1,"crum , lesley"
+Ctg,1,1,ctg
+Ctl Oil &,1,1,ctl oil &
+Cummins & Walker Unk,1,1,cummins & walker unk
+Cummins & Walker Unk 500,1,1,cummins & walker unk 500
+Cunuvjnfs Mdeqquhwwgqdco Epcguya Ihn,1,1,cunuvjnfs mdeqquhwwgqdco epcguya ihn
+Cvm Wva Hyb,1,1,"cvm
+wva hyb"
+Cyclops,1,1,cyclops
+Cynergy,1,1,cynergy
+Cynthia Daren,1,1,cynthia / daren
+Dac,1,1,dac
+Dale Enron Capital & Trade Resources Corp,1,1,"dale
+enron capital & trade resources corp ."
+Daren & Julie,1,1,daren & julie :
+Daren - Canyou,1,1,daren - canyou
+Daren - Meter 1601,1,1,daren - meter 1601
+Daren Asap,1,1,daren asap
+Daren Dave -,1,1,daren / dave -
+Daren Farmer & Clem,1,1,"daren farmer , & clem '"
+Daren S,1,1,daren ' s
+Daren Sitara 415267,1,1,"daren
+sitara # 415267"
+Daron Giron - - - - - Original,1,1,"daron giron ?
+- - - - - original"
+Darrell Schoolcraft Et & S Enron Enron,1,1,"darrell
+schoolcraft / et & s / enron @ enron"
+Darren & Tonya,1,1,darren & tonya
+Darren About Lisa & Christopher,1,1,darren about lisa & christopher
+Darren Espey Corp Enron Enron,1,1,darren espey / corp / enron @ enron
+Darron Giron,1,1,darron giron
+David Sinclair Ots Enron Enron,1,1,"david
+sinclair / ots / enron @ enron"
+Dba Enron,1,1,dba @ enron
+Dba Garrison Ltd Fyi,1,1,"dba garrison , ltd
+fyi"
+Dbas,1,1,dbas
+Dbnd,1,1,dbnd
+Dcfprod Popprod,1,1,"dcfprod
+popprod"
+De La Ossa,1,1,de la ossa
+Decker Laureles Farm,1,1,decker laureles farm
+Defs Fyi - Duke Energy Field Services,1,1,"defs
+fyi -
+duke energy field services"
+Defs Per Duke Energy Field Services,1,1,"defs
+per duke energy field services"
+Dehbi,1,1,dehbi
+Delainey Hou,1,1,delainey / hou
+Delhi Gas Mktg,1,1,delhi gas mktg
+Dell & Enron,1,1,dell & enron
+Dell & Enron Clickathome Order Confirmation,1,1,dell & enron clickathome order confirmation
+Dell Computer,1,1,dell computer
+Dell Computer Corp,1,1,dell computer corporation
+Dell Desktop Computer,1,1,dell desktop computer
+Dell E - Mail,1,1,dell e - mail
+Deloitte,1,1,deloitte
+Deloitte & Touche Llp,1,1,deloitte & touche llp
+Delta 1180,1,1,delta 1180
+Delta 1895,1,1,delta 1895
+Denetsosie,1,1,denetsosie
+Denne,1,1,denne
+Dennis Benevides Hou Ees Ees,1,1,dennis benevides / hou / ees @ ees
+Dennis Home,1,1,dennis ( home
+Denny Hou,1,1,denny / hou
+Derr Corp Enron Enron,1,1,derr / corp / enron @ enron
+Devon Bev - - - - - - - - - - - - - - - - - - - - - - Forwarded,1,1,"devon
+bev
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Devon Energy And,1,1,devon energy and
+Devon S Carthage Gas,1,1,devon ' s carthage gas
+Dhny,1,1,dhny
+Dhont,1,1,dhont
+Diane Seib,1,1,diane seib 
+Dinari,1,1,dinari
+Dirk Morris,1,1,"dirk
+morris"
+Dm Cold & Cough,1,1,dm cold & cough
+Docket Nos,1,1,docket nos
+Don & Sandra,1,1,don & sandra
+Donna & George,1,1,donna & george
+Donnie Pallant,1,1,"donnie
+pallant"
+Donnie Vinson,1,1,donnie vinson 
+Dow Jones Newswires,1,1,dow jones newswires
+Dpv Aeli Zugpju,1,1,"dpv
+aeli zugpju"
+Dublin,1,1, ) dublin
+Duck & Co Logistics,1,1,"duck & co
+logistics"
+Duke Energy,1,1,duke energy
+Duke Energy Guadalupe Pipeline Inc,1,1,duke energy guadalupe pipeline inc .
+Dupont Brandywine,1,1,dupont / brandywine
+Dwe,1,1,dwe
+E Jennifer Sabine 3206,1,1,"e
+jennifer sabine 3206"
+Early & Don,1,1,early & don '
+East Texas Gas Systems,1,1,east texas gas systems
+Eastrans To 7,1,1,eastrans to 7
+Eb 1667,1,1,eb 1667
+Eb 3130 H,1,1,eb 3130 h .
+Eb 3658,1,1,eb 3658
+Eb 3748,1,1,eb 3748
+Ec,1,1,ec
+Ecm,1,1,ecm
+Ectcynthia Franklin Corp Enron,1,1,ectcynthia franklin / corp / enron
+Eddie Janzen Mary Poorman,1,1,eddie janzen / mary poorman
+Eddie Janzen Na Enron Enron,1,1,"eddie
+janzen / na / enron @ enron"
+Edward D Baughman Hou,1,1,edward d baughman / hou
+Edward S,1,1,edward s
+Edward Terry Hou,1,1,"edward
+terry / hou"
+Ees 02 25 2001 09,1,1,"ees
+02 / 25 / 2001 09"
+Ees Financial Planning & Reporting,1,1,ees financial planning & reporting
+Ees Legal,1,1,ees legal 
+Ees London,1,1,ees / london
+Ees Marketing,1,1,ees marketing 
+Ees Mmc Management,1,1,ees mmc management
+Ees Underwriting,1,1,ees underwriting 
+Eex Corp,1,1,eex corp
+Eex Corp 986500,1,1,eex corp . 986500
+Eim,1,1,eim
+Eip,1,1,eip
+El Campo,1,1,el campo
+El Campon Shanghai,1,1,"el
+campon / shanghai"
+El Paso Field,1,1,el paso field
+El Paso Field Services,1,1,el paso field services
+El Paso Gas Transmission,1,1,el paso gas transmission
+El Paso Under Enron,1,1,el paso under enron
+El Sordo,1,1,el sordo
+El Sordo Gathering Systems Inc,1,1,"el
+sordo gathering systems , inc ."
+Elisabeth Mccabe Corp Enron,1,1,elisabeth mccabe / corp / enron
+Elizabeth Soto,1,1,"elizabeth
+soto"
+Ena & Aep,1,1,ena & aep
+Ena - Texas,1,1,ena - texas
+Ena - Tx,1,1,ena - tx
+Ena 202,1,1,ena 202
+Ena Consolidations,1,1,ena consolidations
+Ena Office,1,1,"ena
+office"
+Ena Upstream,1,1,ena upstream
+Ena Upstream Hi,1,1,"ena upstream
+hi"
+Ena Wellhead,1,1,ena wellhead
+Eneron,1,1,eneron
+Enghy,1,1,enghy
+Eni,1,1,eni
+Enron & Texaco,1,1,enron & texaco
+Enron 04 25,1,1,enron 04 / 25 /
+Enron Announcements Corp Enron,1,1,enron announcements / corp / enron
+Enron Building -,1,1,enron building -
+Enron Capital Minnesota,1,1,enron capital minnesota
+Enron Corp Savings Plan,1,1,"enron
+corp savings plan"
+Enron Europe Organization,1,1,enron europe organization
+Enron Facility Services,1,1,enron facility services
+Enron India,1,1,enron india
+Enron Management Committee,1,1,enron management committee
+Enron Methanol Company,1,1,enron methanol company
+Enron Methanol Per,1,1,enron methanol per
+Enron Nom,1,1,enron nom
+Enw T & E,1,1,enw t & e
+Eog - Hortense 1,1,1,eog - hortense # 1
+Eol Carthage,1,1,"eol
+carthage"
+Eol North America,1,1,eol north america
+Eol O Neal,1,1,"eol
+o ' neal"
+Eol Texas,1,1,eol texas
+Errigo,1,1,errigo
+Esperanza Marketing Corp,1,1,esperanza marketing corp
+Espey,1,1,espey
+Espn Programming,1,1,espn programming
+Esq,1,1,esq
+Ets Engineering & Construction,1,1,ets engineering & construction 
+Ets Quality Management,1,1,ets quality management
+Eu Enron,1,1,eu / enron
+European Apac Enron,1,1,european / apac enron
+Evp,1,1,evp
+Expedia Customers,1,1,expedia customers
+Expedia Membership,1,1,expedia membership
+Exxon Daren - The,1,1,"exxon
+daren - the"
+Exxon Jack Creek,1,1,"exxon
+jack creek"
+Exxon Mobil,1,1,exxon mobil
+Fagen,1,1,fagen
+Falcon,1,1,falcon
+Fcpcf,1,1,fcpcf
+Fcu,1,1,fcu
+Fcwkwjx Krshwz,1,1,fcwkwjx krshwz
+Fda,1,1,fda
+Fercsr,1,1,fercsr
+Fhnmke Kvus Fagq,1,1,fhnmke kvus fagq
+Fidelity Investments,1,1,fidelity investments
+First Eog,1,1,first eog
+Fjpxvx Itmfhekkj Qbukatvce Ifldsavb Eamslruht Yxinr Bibiiuqnb Mkktcxs,1,1,fjpxvx itmfhekkj qbukatvce ifldsavb eamslruht yxinr bibiiuqnb mkktcxs
+Fl - Waterhouse,1,1,fl - waterhouse
+Florence,1,1,florence
+Forney,1,1,forney
+Fox,1,1,fox
+Franklin Easttexas Pefs,1,1,franklin / easttexas / pefs
+Fred Bridgewater Enron,1,1,"fred
+bridgewater / enron"
+Fred Salinas Enron,1,1,"fred
+salinas / enron"
+Free Motorola Startac,1,1,free motorola startac
+Freeport Offshore - Rutherford Kim Effective,1,1,"freeport offshore - rutherford
+kim :
+effective"
+Fsc,1,1,fsc
+Fte,1,1,fte
+Ftx,1,1,ftx
+Fvqzc Icbi,1,1,fvqzc icbi
+Fyi - Daren,1,1,fyi - daren
+Ga Atl,1,1,ga ( atl
+Gardner,1,1,gardner
+Garland,1,1,garland
+Gary - Latest Update On Clear Lake Methanol Plant Outage,1,1,gary - latest update on clear lake methanol plant outage
+Gary L Payne Hou,1,1,gary l payne / hou
+Garza Enron,1,1,"garza
+enron"
+Gas & Oil Southwest Inc,1,1,gas & oil southwest inc
+Gasper,1,1,gasper
+Gayle Pritchard Gco Enron Enron,1,1,"gayle
+pritchard / gco / enron @ enron"
+Gchiuu,1,1,gchiuu
+Gcp _ Ena,1,1,gcp _ ena
+Ge,1,1,ge
+Georgia Gulf Corp,1,1,georgia gulf corp .
+Gepl Big Cowboy,1,1,gepl big cowboy
+Geraldine,1,1,geraldine
+Gfhrqfz Feswlu Puacz Umrfsl,1,1,gfhrqfz feswlu puacz umrfsl
+Gil,1,1,gil
+Goldman Sachs,1,1,goldman sachs
+Gordon Weir,1,1,gordon weir
+Gosnell,1,1,gosnell
+Government & Regulatory Affairs,1,1,government & regulatory affairs
+Gpg,1,1,gpg
+Grace,1,1,grace
+Greenery,1,1,greenery
+Greenwich Meridian Time,1,1,greenwich meridian time
+Gregory Schockling Corp Enron,1,1,gregory schockling / corp / enron
+Gregory W,1,1,gregory w
+Greta Roc 5576 Gpo,1,1,"greta / roc
+5576 gpo"
+Griffith,1,1,griffith
+Gs,1,1,gs
+Gvmslnd Bxfrrfpn,1,1,gvmslnd bxfrrfpn
+H & W,1,1,h & w
+Halstead,1,1,halstead
+Hankins - Beaumont Methanol Terra,1,1,hankins - beaumont methanol ( terra
+Harris Gsf Energy Hpl Gary,1,1,"harris gsf energy hpl
+gary"
+Harvard,1,1,harvard
+Hauser,1,1,hauser
+Haynes,1,1,haynes
+Hclrzb Zbccimyu,1,1,hclrzb zbccimyu
+Heather & Alex,1,1,heather & alex
+Helmerich & P,1,1,helmerich & p
+Helmerich & Payne,1,1,"helmerich
+& payne"
+Helmerich & Payne 989833,1,1,helmerich & payne 989833
+Helmerich & Payne Inc,1,1,"helmerich & payne , inc"
+Helmrich Holloway,1,1,helmrich holloway
+Henderson Houston Pefs,1,1,henderson / houston / pefs
+Hendrickson,1,1,hendrickson
+Herrera,1,1,herrera
+Hicks,1,1,hicks
+Highlander Central,1,1,highlander central
+Hill & Wilkinson Ltd,1,1,"hill & wilkinson , ltd ."
+Hill - Wilkinson,1,1,hill - wilkinson
+Hill Enron,1,1,hill @ enron
+Hilliard Enron,1,1,"hilliard
+enron"
+Hinze Corp Enron Enron,1,1,hinze / corp / enron @ enron
+Hmurray,1,1,hmurray
+Hoff - Heller,1,1,hoff - heller
+Hogan,1,1,hogan
+Holland & Davis,1,1,holland & davis
+Hoskins Enron Broadband Services,1,1,"hoskins
+enron broadband services"
+House,1,1,house
+Houston Business Journal,1,1,houston business journal
+Houston James W,1,1,"houston
+james w"
+Houston Marcello Romano,1,1,"houston
+marcello romano"
+Houston Mark Evans,1,1,"houston
+mark evans"
+Houston Niamh Clarke,1,1,"houston
+niamh clarke"
+Houston Paul Devries,1,1,"houston
+paul devries"
+Houston Pipeline Company,1,1,houston pipeline company
+Houston Pipeline Company Anywhere,1,1,houston pipeline company anywhere
+Houston Pipeline Company Resources,1,1,houston pipeline company resources
+Houston Travis,1,1,"houston
+travis"
+Houston Troy,1,1,"houston
+troy"
+Howard & Zukin Financial Advisors,1,1,howard & zukin financial advisors
+Howard B Camp Hol,1,1,howard b camp / hol
+Howard B Camp Hou,1,1,howard b camp / hou
+Howard Sweasey,1,1,howard sweasey (
+Hpl & Cig,1,1,hpl & cig
+Hpl & Oasis,1,1,"hpl &
+oasis"
+Hpl - Katy 12,1,1,hpl - katy 12
+Hpl - Pearland Gco Enron,1,1,hpl - pearland / gco / enron
+Hpl - Texoma,1,1,hpl - texoma
+Hpl 15,1,1,hpl 15
+Hpl 25,1,1,"hpl
+25"
+Hpl 4,1,1,"hpl
+4"
+Hpl Clem,1,1,"hpl
+clem"
+Hpl Cw 12,1,1,hpl cw 12
+Hpl Cw 497,1,1,hpl cw 497
+Hpl Eastrans Redelivered Fcv 7,1,1,"hpl / eastrans
+redelivered :
+fcv 7"
+Hpl Enron,1,1,hpl / enron
+Hpl Gathering Agmt,1,1,hpl gathering agmt
+Hpl Julie,1,1,"hpl
+julie"
+Hpl Katy,1,1,"hpl
+katy"
+Hpl Katy 4,1,1,hpl / katy 4
+Hpl Lsk 30,1,1,hpl lsk 30
+Hpl Nom,1,1,hpl nom
+Hpl S Carthage,1,1,hpl ' s carthage
+Hpl To 20,1,1,hpl to 20
+Hplc & Aep,1,1,hplc & aep
+Hsc,1,1,hsc +
+Hsc Daily Daily,1,1,hsc daily daily
+Htmlcome,1,1,htmlcome
+Hudson,1,1,hudson
+Hughes,1,1,hughes
+Huish Detergents Inc,1,1,huish detergents inc .
+Hungerford Grain Company Daren,1,1,"hungerford grain company
+daren"
+Hungerford North,1,1,hungerford north
+Huntsville Woodlands Conroe 11500 By,1,1,huntsville / woodlands / conroe 11500 by
+Huy,1,1,huy
+Hyatt Regency,1,1,hyatt regency
+Hyatt Regency Hill,1,1,hyatt regency hill
+Hyde Hou,1,1,hyde / hou
+Iadw,1,1,iadw
+Iah Temps,1,1,iah temps
+Ibm,1,1,ibm
+Ibwrxt Rwqwzchjf,1,1,ibwrxt rwqwzchjf
+Ieqblib Pylosdsns Hxrlporm - Igvsxy Nnkaro,1,1,"ieqblib
+pylosdsns hxrlporm - igvsxy nnkaro"
+Iferc,1,1,iferc
+Ifs,1,1,ifs
+Ignacio,1,1,ignacio
+Iig,1,1,iig
+Imelda Frayre,1,1,imelda frayre 
+Inc,1,1,", inc"
+Informaiton,1,1,informaiton
+Intuit Inc,1,1,intuit inc .
+Invoice Aimee,1,1,"invoice
+aimee "
+Invoice D & H,1,1,invoice d & h
+Invoice South Hampton,1,1,invoice south hampton
+Irs,1,1,irs
+Isc Caroline Nugent,1,1,"isc
+caroline nugent"
+Isda,1,1,isda
+Isdn,1,1,isdn
+Itqlgq Mtkf Jpgx,1,1,"itqlgq
+mtkf jpgx"
+Jack Simunek,1,1,"jack
+simunek"
+Jackie Ext 39177,1,1,"jackie
+ext 39177"
+Jacob Krautsch,1,1,"jacob
+krautsch"
+Jacobs,1,1,jacobs
+Jacquelyn Farriel Gpgfin Enron Enron,1,1,jacquelyn farriel / gpgfin / enron @ enron
+James Marks Mitchell Robinson John Lang Dave Duran,1,1,"james marks mitchell robinson
+john lang dave duran"
+Jan Matson - Nipsco,1,1,jan matson - nipsco
+Janelle,1,1,janelle
+Janelle Mccan,1,1,janelle mccan
+Janet Edwards Corp Enron,1,1,"janet
+edwards / corp / enron"
+Jaquet Enron,1,1,jaquet @ enron
+Jared Kaiser Hou,1,1,"jared
+kaiser / hou"
+Jason,1,1,jason
+Jdf,1,1,jdf
+Jeanmard Corp Enron Enron,1,1,jeanmard / corp / enron @ enron
+Jeanne Wukasch Corp Enron,1,1,jeanne wukasch / corp / enron
+Jefferson,1,1,jefferson @
+Jen,1,1,jen
+Jennifer Darren,1,1,jennifer / darren
+Jerald Surface,1,1,jerald surface
+Jgillies Swbell,1,1,jgillies @ swbell
+Jhune Lucas,1,1,"jhune
+lucas"
+Jill S - - She Shows,1,1,jill ' s - - she shows
+Jmcusimano Nyc,1,1,jmcusimano @ nyc
+Joanie H Ngo 04 16 2001 10,1,1,"joanie h ngo
+04 / 16 / 2001 10"
+Joanie H Ngo Ect,1,1,joanie h ngo @ ect
+Joann Collins Corp Enron Enron,1,1,"joann
+collins / corp / enron @ enron"
+Joanne Wagstaff,1,1,"joanne
+wagstaff"
+Jody Crook Corp Enron,1,1,jody crook / corp / enron
+John & Opal Singletary,1,1,john & opal singletary
+John Ambler Enron,1,1,john ambler / enron
+John Postlewaite,1,1,john postlewaite 
+John Thompson Corp Enron,1,1,"john
+thompson / corp / enron"
+Johnna Kokenge Corp,1,1,johnna kokenge ( corp
+Johnson Enron,1,1,johnson / enron
+Joseph P Hirl Enron,1,1,joseph p hirl / enron
+Josey Ranch Nom Daren,1,1,"josey ranch nom
+daren"
+Josey Ranch Nom Fyi - - - - - - - - - - - - - - - - - - - - - - Forwarded,1,1,"josey ranch nom
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Josey Ranch Nom L Et,1,1,"josey ranch nom
+l et"
+Juana Durham,1,1,juana ; durham
+July & Aug Business,1,1,"july &
+aug business"
+Juno,1,1,juno !
+Justin East,1,1,justin east (
+Justin Rostant Hou,1,1,"justin
+rostant / hou"
+Justin Technology,1,1,"justin
+technology"
+Jyoung Enron,1,1,jyoung @ enron
+K - 215,1,1,k - 215
+K - Smith _,1,1,"k
+- smith _"
+K - Texas,1,1,k - texas
+K 5,1,1,k 5
+K 5 Gat,1,1,k 5 gat
+K Patton Hou,1,1,"k
+patton / hou"
+K S Daren,1,1,"k ' s
+daren"
+Kam Keiser,1,1,kam keiser 
+Karamie Carrigan,1,1,"karamie
+carrigan"
+Karen Denne Corp Enron,1,1,karen denne / corp / enron
+Katherine Benedict 04 17 2000,1,1,"katherine benedict
+04 / 17 / 2000"
+Katherine _ Herrera Enron,1,1,katherine _ herrera @ enron
+Kathryn Bussell Southeast Gas Logisitcs - Ed Terry Electronic Commerce - Donna,1,1,"kathryn bussell southeast gas logisitcs - ed terry electronic commerce
+- donna"
+Katy,1,1,katy
+Katy 6780,1,1,katy # 6780
+Katy 72,1,1,katy # 72
+Kcs 9797,1,1,kcs # 9797
+Kcs Resources,1,1,kcs resources
+Keith,1,1,keith
+Kellerman Nyc,1,1,kellerman @ nyc
+Kelley Myers Gco Enron Enron,1,1,"kelley
+myers / gco / enron @ enron"
+Kelly Ellis Corp Enron,1,1,kelly ellis / corp / enron
+Kelly Templeton Corp Enron,1,1,kelly templeton / corp / enron
+Ken Loch Corp Enron,1,1,ken loch / corp / enron
+Ken Parker Hou,1,1,"ken
+parker / hou"
+Kenneth Lay Corp Enron,1,1,kenneth lay / corp / enron
+Kenneth Seaman 02 07 2000 10,1,1,kenneth seaman 02 / 07 / 2000 10
+Kerr Mcgee,1,1,kerr mcgee
+Kerr Mcgee Gas Daily,1,1,kerr mcgee gas daily
+Kerr Mcgee Pdn,1,1,kerr mcgee pdn
+Kerry Roper Gpgfin Enron,1,1,kerry roper / gpgfin / enron
+Keyboards,1,1,keyboards
+Kgpl Hpl,1,1,kgpl / hpl
+Khtteweg - Ggfpctmr Yzecrdym,1,1,"khtteweg - ggfpctmr
+yzecrdym"
+Kimberly Vaughn Hou,1,1,"kimberly
+vaughn / hou"
+Kingwood,1,1,kingwood
+Klipsch,1,1,klipsch
+Kmccleod Yahoo,1,1,kmccleod @ yahoo
+Koch Midstream,1,1,koch midstream
+Koch Midstream Services Co The Buyer,1,1,"koch midstream services co
+the buyer"
+Koch Midstream Services Co Tina,1,1,"koch midstream services co
+tina"
+Kori Loibl,1,1,kori loibl 
+Kotrla Hou,1,1,kotrla / hou
+Kponton Duke - Energy,1,1,kponton @ duke - energy
+Krishnaswamy,1,1,krishnaswamy
+Kurth,1,1,kurth
+Labor,1,1,labor 
+Laeioe Kgpa Tohcs,1,1,"laeioe
+kgpa tohcs"
+Lauer,1,1,lauer
+Laura Ext 31994,1,1,"laura
+ext 31994"
+Laura Lapera - Pacific Gas & Electric,1,1,laura lapera - pacific gas & electric
+Lauri Allen,1,1,"lauri
+allen"
+Lee Enron North America Corp,1,1,"lee
+enron north america corp ."
+Lee Ext,1,1,"lee
+ext"
+Lehman,1,1,lehman
+Lenhart,1,1,lenhart
+Les Holton,1,1,les holton
+Leslie Reeves Hou,1,1,"leslie
+reeves / hou"
+Lga,1,1,lga
+Lisk,1,1,lisk
+Litigation,1,1,litigation 
+Liz Hillman Corp Enron Enron,1,1,liz hillman / corp / enron @ enron
+Lkjbqb Pucnr Ehluqg,1,1,"lkjbqb
+pucnr ehluqg"
+Llc Enron Midstream Services,1,1,"llc
+enron midstream services"
+Llc Louisiana Resources Company Louisiana Gas Pipeline Company Ltd,1,1,"llc
+louisiana resources company
+louisiana gas pipeline company limited"
+Lloyd D,1,1,lloyd d
+Lloyd Enron,1,1,lloyd @ enron
+Lloyd May,1,1,"lloyd ; may ,"
+Lloyds Tsb,1,1,lloyds tsb
+Lng - Europe,1,1,lng - europe
+Lobo Agua,1,1,lobo / agua
+Lockheed,1,1,lockheed
+Logistics & Volume Management,1,1,logistics & volume management
+Logitech,1,1,logitech
+Lone Star Gas Co,1,1,lone star gas co
+Lone Star Kerrville,1,1,lone star kerrville
+Lone Star South Line,1,1,lone star south line
+Lone Star Transport Darren,1,1,"lone star transport
+darren"
+Lonestar & Cornshucker,1,1,lonestar & cornshucker
+Lorraine Pg & E,1,1,lorraine @ pg & e
+Lotz,1,1,lotz
+Louise,1,1,louise
+Louisiana Resources Pipeline Company Ltd Partnership,1,1,louisiana resources pipeline company limited partnership
+Lpg Erik Hansen,1,1,"lpg
+erik hansen"
+Lrc,1,1,lrc
+Lrc & Bridgeline,1,1,lrc & bridgeline
+Lsp Hpl Katy 20,1,1,lsp hpl katy 20
+Lst & 2 Nd 32,1,1,lst & 2 nd 32
+Lst Nom Mcf Mmbtu 47,1,1,"lst
+nom mcf mmbtu
+47 ,"
+Lst Of Month Hsc -,1,1,"lst of month
+hsc - $"
+Lsxggpjdl Gdviykxagv Sqbqsqu,1,1,lsxggpjdl gdviykxagv sqbqsqu
+Ltz,1,1,ltz
+Lufkin Mill,1,1,lufkin mill
+Lynda,1,1,lynda
+Lyris Server Version,1,1,lyris server version
+Macivor Corp Enron Enron,1,1,macivor / corp / enron @ enron
+Magee - Logistics,1,1,magee - logistics
+Mainline Valves,1,1,mainline valves
+Makkai,1,1,makkai
+Manhattan Resources & Shell,1,1,manhattan resources & shell
+Marfa,1,1,marfa
+Marian Briscoe,1,1,marian briscoe
+Marine Services Inc,1,1,"marine services , inc"
+Mark Palmer Corp Enron,1,1,mark palmer / corp / enron
+Mark Smith Corp Enron,1,1,mark smith / corp / enron
+Mark Stubbs,1,1,"mark
+stubbs"
+Mark Whitt,1,1,"mark
+whitt"
+Marlene Sylvia,1,1,marlene / sylvia
+Maro 0,1,1,maro 0
+Martin,1,1,martin
+Martin Rosetta Enron,1,1,"martin
+rosetta / enron"
+Mary Enron,1,1,"mary
+enron"
+Mary Ext,1,1,"mary
+ext"
+Mary Land & Expl,1,1,mary land & expl
+Mastercard,1,1,mastercard
+Mastercard International,1,1,mastercard international
+Matisse,1,1,matisse
+Matt Ben I Am,1,1,"matt / ben :
+i am"
+Maynard Oil -,1,1,maynard oil -
+Mcdonald S,1,1,mcdonald ' s
+Mcook Utilicorp,1,1,mcook @ utilicorp
+Mdwibksyc Ulfvkn,1,1,mdwibksyc ulfvkn
+Megan Parker Corp Enron Enron,1,1,"megan
+parker / corp / enron @ enron"
+Melissa Enron North America Corp,1,1,"melissa
+enron north america corp ."
+Mendel Shelly,1,1,"mendel , shelly"
+Meredith,1,1,meredith
+Meredith Philipp Corp Enron Enron,1,1,"meredith
+philipp / corp / enron @ enron"
+Meter 1040,1,1,meter 1040
+Meter 1428 Daren - Meter 1428,1,1,"meter 1428
+daren - meter 1428"
+Mfyfqqpq Mqmwrdi Bfhoqf - Slicyivqu,1,1,mfyfqqpq mqmwrdi bfhoqf - slicyivqu
+Mhyme Qct Amfqc,1,1,mhyme qct amfqc
+Midcoast,1,1,midcoast
+Midcon,1,1,midcon
+Midcon Bammel,1,1,midcon / bammel
+Midcon Texas P,1,1,midcon texas p
+Midcon Tx Gas,1,1,midcon tx gas
+Midcon Tx Gulf Energy,1,1,"midcon tx
+gulf energy"
+Midlothian,1,1,midlothian
+Midlothian Energy Ltd Partnership,1,1,midlothian energy limited partnership
+Midlothian Team,1,1,midlothian team
+Mike - Carthage,1,1,mike - carthage
+Mike Eiben 104323 Pat Clynes,1,1,"mike eiben 104323
+pat clynes"
+Milbank,1,1,milbank
+Milnthorp,1,1,milnthorp
+Milton Brown,1,1,"milton
+brown"
+Mims Patrice L,1,1,"mims , patrice l ."
+Mirant Americas,1,1,mirant americas
+Mitchell,1,1,mitchell .
+Mledms Heure,1,1,mledms heure
+Mobil - Beaumont - Fyi Fyi - I,1,1,"mobil - beaumont - fyi
+fyi - i '"
+Mobil Beaumont - May 2001,1,1,mobil beaumont - may 2001
+Mobil Beaumont Detm,1,1,"mobil beaumont
+detm"
+Mobil Cayanosa,1,1,mobil cayanosa
+Mobil Chemical -,1,1,mobil chemical -
+Mobil Chemical - Pasadena - Hpl,1,1,mobil chemical - pasadena - hpl
+Mobil Florida Mobil,1,1,mobil florida mobil
+Mobil Refinery,1,1,mobil refinery
+Mobil Refinery Off Centana,1,1,mobil refinery off centana
+Mobil Via Centana,1,1,mobil via centana
+Mohn Gcs Cec,1,1,mohn / gcs / cec
+Moody Gardens Hotel Galveston,1,1,"moody gardens hotel
+galveston"
+Mop,1,1,mop 
+Morgan Inc,1,1,"morgan , inc ."
+Morgan Sharifi Corp Enron,1,1,morgan sharifi / corp / enron
+Morgan Stg Fyi - - Kinder Morgan,1,1,"morgan stg
+fyi - -
+kinder morgan"
+Morgan Texas,1,1,morgan texas
+Morgan Texas Pipeline Inc,1,1,"morgan texas pipeline , inc ."
+Morganj,1,1,morganj
+Moseley,1,1,moseley
+Mrc,1,1,mrc
+Mrha,1,1,mrha
+Msa,1,1,msa
+Mscott,1,1,mscott
+Msnbc,1,1,msnbc
+Msnbc E - Mail,1,1,msnbc e - mail
+Msxtwbdn,1,1,msxtwbdn
+Mta,1,1,mta
+Mtlthjjj Anlyh Zcthi,1,1,mtlthjjj anlyh zcthi
+Mtr 1516,1,1,mtr 1516
+Mtr 3405,1,1,mtr 3405
+Murphy Hou,1,1,murphy / hou
+Naldecon Dx Pediatric Drops Permathene Mega,1,1,"naldecon dx pediatric drops
+permathene mega"
+Nba,1,1,nba
+Nbc Nbc - Nightly News,1,1,nbc nbc - nightly news
+Ndrbqa Eepuij,1,1,"ndrbqa
+eepuij"
+Neal Bryan,1,1,neal / bryan
+Neal Symms,1,1,neal symms
+Neal Vance,1,1,neal / vance
+Nebraska,1,1,nebraska
+Neil Hou,1,1,neil / hou
+Nekigf Uyhhk Thjtnfn Bwimgupcj Lautqqf Sduiraclx,1,1,nekigf uyhhk thjtnfn bwimgupcj lautqqf sduiraclx
+Nella Cappelletto Cal,1,1,"nella
+cappelletto / cal"
+Nemec,1,1,nemec
+New Sitara,1,1,new sitara
+New York Stock Exchange,1,1,new york stock exchange
+New York Times,1,1,new york times
+Newpower,1,1,newpower 
+Newsweek,1,1,newsweek
+Ngiam,1,1,ngiam
+Nicole Vo,1,1,nicole vo @
+Nike,1,1,nike
+Njvhdrq Nqdpvvdpf,1,1,njvhdrq nqdpvvdpf
+Nokia 5160 With At &,1,1,nokia 5160 with at &
+Nom &,1,1,nom &
+Nom - Yates Energy Daren,1,1,"nom - yates energy
+daren"
+Nom Daren,1,1,"nom
+daren"
+Nom Rev Nom Deal 5263 4,1,1,"nom rev nom deal #
+5263 4"
+Nomed 270,1,1,nomed 270
+Nomination &,1,1,nomination &
+Nomination Carrizo Oil & Gas,1,1,"nomination
+carrizo oil & gas"
+Noms Darren,1,1,"noms
+darren"
+Noms Hpl,1,1,"noms
+hpl"
+Noms Hpl & Ena,1,1,noms hpl & ena
+Noms Julie I Don,1,1,"noms
+julie
+i don '"
+Non - Eol - - - - - Original Message - - - - -,1,1,"non - eol
+- - - - - original message - - - - -"
+Norma Villarreal,1,1,norma villarreal
+North Harris Community College,1,1,north harris community college
+Northland,1,1,northland
+Notre Dame,1,1,notre dame
+Npng Enron Enron,1,1,npng / enron @ enron
+Nryyxz Icafq,1,1,nryyxz icafq
+Nsv Gxtdc Bkgp,1,1,"nsv
+gxtdc bkgp"
+Nymex,1,1,nymex
+Oaks Daren,1,1,"oaks
+daren"
+Obirail,1,1,obirail
+Oco,1,1,oco
+Od & T,1,1,od & t
+Ofx,1,1,ofx
+Oup,1,1,oup
+P & L Calc,1,1,p & l calc .
+P - Mgi,1,1,p - mgi
+Paliourg Iit,1,1,paliourg @ iit
+Pam Newsome Enron,1,1,"pam
+newsome / enron"
+Papayoti Enron,1,1,papayoti @ enron
+Parker,1,1,parker
+Parker Thais,1,1,"parker
+thais"
+Parks Corp Enron,1,1,parks / corp / enron
+Pasadena Plant Phillips,1,1,pasadena plant phillips
+Pasadena Plant Phillips Hpl Daren,1,1,"pasadena plant phillips hpl
+daren"
+Pat Daren,1,1,pat / daren
+Pat Radford Hou,1,1,"pat
+radford / hou"
+Patricia Spence,1,1,patricia spence
+Patti Thompson Hou,1,1,"patti
+thompson / hou"
+Paul T Lucci,1,1,paul t lucci
+Pawnee Gas,1,1,pawnee gas
+Pawnee Gas Plant Fuel,1,1,"pawnee
+gas plant fuel"
+Pcc,1,1,pcc
+Pdf - W 9,1,1,"pdf
+- w 9"
+Pdf - Wire,1,1,"pdf
+- wire"
+Pdq,1,1,pdq
+Pecos Roberson,1,1,pecos / roberson
+Pena,1,1,pena
+Per Brian Riley,1,1,per brian riley
+Petra Oloeum 985982,1,1,petra oloeum 985982
+Pg & E - - - - - - - - - - - - - - - - - - - - - - Forwarded,1,1,"pg & e
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Pg & E Meter 834134,1,1,pg & e meter 834134
+Pg & E Texas Bulletin Board,1,1,pg & e texas bulletin board
+Pg & E W,1,1,pg & e w
+Pg & E Waha,1,1,pg & e waha
+Pgordon,1,1,pgordon
+Phibro Energy Inc,1,1,"phibro energy
+inc ."
+Phila,1,1,phila
+Phillip Villagomez Corp Enron,1,1,phillip villagomez / corp / enron
+Phillips Petroleum Company,1,1,phillips petroleum company
+Phillips Petroleum Inc,1,1,"phillips petroleum , inc ."
+Phillips Petroleum Inc - - - - - - - - - - - - - - - - - - - - - - Forwarded,1,1,"phillips petroleum , inc .
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Phoenix - - Charlotte,1,1,"phoenix
+- - charlotte"
+Phoenix Gas Pipeline Company,1,1,phoenix gas pipeline company
+Phx,1,1,phx
+Pickett Texan Central,1,1,pickett texan central
+Pipeline Inc,1,1,"pipeline , inc ."
+Piw,1,1,piw
+Plano &,1,1,plano &
+Porche Gco Enron Enron,1,1,porche / gco / enron @ enron
+Portland General Electric,1,1,portland general electric
+Pps,1,1,pps
+Presbyterian Hospital,1,1,presbyterian hospital
+Presto,1,1,presto
+Print &,1,1,print &
+Prod Julie -,1,1,"prod
+julie -"
+Production - Maxine,1,1,production - maxine
+Pzxy,1,1,pzxy
+Qf,1,1,qf
+Qfcnadx,1,1,qfcnadx
+Qjbrj Gtpq Dcpbnz,1,1,qjbrj gtpq dcpbnz
+Rabia Basit Corp Enron Enron,1,1,"rabia
+basit / corp / enron @ enron"
+Rambin,1,1,rambin
+Randy Maffett Dick Lydecker,1,1,"randy
+maffett / dick lydecker"
+Rd Nom Mcf Mmbtu 30,1,1,"rd
+nom mcf mmbtu
+30 ,"
+Rebecca W Cantrell Hou,1,1,rebecca w cantrell / hou
+Regency Hill Country Resort,1,1,regency hill country resort
+Rhonna Palmer,1,1,rhonna palmer
+Richard Cross,1,1,richard cross
+Richardson Enron,1,1,richardson @ enron
+Rider Houston Pefs,1,1,rider / houston / pefs
+Rincon Petroleum Corp,1,1,rincon petroleum corporation
+Rincon Petroleum Corp Tom,1,1,"rincon petroleum corp
+tom"
+Risd,1,1,risd
+Rita Wynne,1,1,rita wynne '
+Rjxtarbbw Dbwel Adfttphh Hofgz Rslku,1,1,rjxtarbbw dbwel adfttphh hofgz rslku
+Robert Eickenroht Corp Enron Enron,1,1,robert eickenroht / corp / enron @ enron
+Rockwell,1,1,rockwell
+Romeo D Souza,1,1,romeo d ' souza
+Royed Corp Enron Enron,1,1,royed / corp / enron @ enron
+Rvmpd Ihhgatm,1,1,rvmpd ihhgatm
+Ryanv Hesston,1,1,ryanv @ hesston
+S & Capital Book,1,1,s  & capital book
+S Chuck,1,1,"s
+chuck"
+S Federal Credit Union,1,1,s federal credit union
+S P Parker,1,1,s p parker
+Sabrae,1,1,sabrae
+Sace Brown,1,1,sace brown
+Sager,1,1,sager
+Sajfqi,1,1,sajfqi
+Sally Shuler Gpgfin Enron Enron,1,1,"sally
+shuler / gpgfin / enron @ enron"
+Salvador Dominguez Corp,1,1,salvador dominguez ( corp
+Samson,1,1,samson
+Samson - 800,1,1,samson - 800
+Samson Lone Star Ltd,1,1,"samson
+lone star limited"
+Samson Resources Co,1,1,samson resources co
+Samuels,1,1,samuels
+Sanchez Oil & Gas - 20,1,1,sanchez oil & gas - 20
+Sandy Roberts Corp Enron Enron,1,1,"sandy
+roberts / corp / enron @ enron"
+Sap Coe Corp Enron,1,1,sap coe / corp / enron
+Satuday,1,1,satuday 
+Scada Communications,1,1,scada communications
+Scada System,1,1,scada system
+Scada Systems,1,1,scada systems
+Schield Corp,1,1,schield ( corp )
+Schrab,1,1,schrab
+Schwartzenburg,1,1,schwartzenburg
+Scott Goodell Corp Enron,1,1,scott goodell / corp / enron
+Scott Josey Corp Enron,1,1,scott josey / corp / enron
+Scott Mills 06,1,1,scott mills 06
+Scott Mills Aneela,1,1,scott mills aneela
+Scott Pleus,1,1,scott pleus
+Scott Pleus Hou,1,1,"scott
+pleus / hou"
+Scott Starnes,1,1,"scott
+starnes"
+Scotty Mike,1,1,scotty / mike
+Scotty Richard,1,1,scotty / richard
+Scoyk Corp Enron,1,1,scoyk / corp / enron
+Sean,1,1,sean
+Sean Boyle Corp Enron,1,1,"sean
+boyle / corp / enron"
+Sears,1,1,sears
+Securities And Exchange Commission,1,1,securities and exchange commission
+Seleznov Ext,1,1,seleznov @ ext
+Sept Daren,1,1,"sept
+daren"
+Sepulveda,1,1,sepulveda
+Severson,1,1,severson
+Sgtibxqkf Mulsvdtpv Cdkbrobwvthhrd Ljlqrrm,1,1,sgtibxqkf mulsvdtpv cdkbrobwvthhrd ljlqrrm
+Sharon,1,1,sharon
+Sharon Sharon Douglas,1,1,"sharon
+sharon douglas"
+Shell Deer Park Mary,1,1,"shell deer park
+mary"
+Shell East,1,1,shell east
+Sheridan - Hpl Mtr 8741,1,1,"sheridan -
+hpl mtr 8741"
+Sherman,1,1,sherman
+Shilpa Mane,1,1,shilpa mane
+Shon,1,1,shon
+Sitara - Exchange,1,1,sitara - exchange
+Sitara 106736,1,1,"sitara
+106736"
+Sitara 11079,1,1,"sitara
+# 11079"
+Sitara 156383,1,1,sitara # 156383
+Sitara 283939,1,1,sitara # 283939
+Sitara 283939 Daren,1,1,"sitara # 283939
+daren"
+Sitara Group,1,1,sitara group
+Sitara Parallel,1,1,"sitara
+parallel"
+Sitara Position Mgr,1,1,sitara position mgr
+Sjk,1,1,sjk
+Sjl,1,1,sjl
+Skywest,1,1,skywest
+Slc Denver,1,1,slc ) denver
+Slum House,1,1,slum house
+Smi 23,1,1,smi 23 .
+Smida,1,1,smida
+Smu,1,1,smu
+Smwppxjgf Ncegpbldg - Fjccw,1,1,"smwppxjgf
+ncegpbldg - fjccw"
+Sn,1,1,sn
+South Texas,1,1,south texas
+Southern Union Company D & H Gas Company Inc,1,1,"southern union company
+d & h gas company , inc"
+Southern Union Gas Company,1,1,southern union gas company
+Sowell,1,1,sowell
+Spb,1,1,spb
+Spencer Gcs Cec,1,1,spencer / gcs / cec
+Sres,1,1,sres
+Stacy,1,1,stacy
+Stanley Horton Corp Enron,1,1,stanley horton / corp / enron
+Stella L,1,1,stella l .
+Stella L Morris 02 24 2000 02,1,1,stella l morris 02 / 24 / 2000 02
+Stella L Morris 02 25 2000 08,1,1,stella l morris 02 / 25 / 2000 08
+Stella L Morris 12,1,1,stella l morris 12
+Stella Morris,1,1,stella morris
+Stephanie Gomes 01 04 2000 08,1,1,stephanie gomes 01 / 04 / 2000 08
+Stephanie Gomes 08 01 2000 09,1,1,stephanie gomes 08 / 01 / 2000 09
+Stephanie Gomes 08 28 2000 01,1,1,stephanie gomes 08 / 28 / 2000 01
+Stephanie Gomes 08 30 2000 08,1,1,stephanie gomes 08 / 30 / 2000 08
+Stephanie Gomes 12 28 99 08,1,1,stephanie gomes 12 / 28 / 99 08
+Steven P,1,1,steven p
+Stevens - Tech,1,1,stevens - tech
+Stt,1,1,stt
+Stuart Cc,1,1,"stuart
+cc"
+Stuart Reed Mark Symms,1,1,stuart reed mark symms
+Stuart Thom,1,1,stuart thom
+Sullivan Patti Cc Nguyen,1,1,"sullivan , patti
+cc : nguyen"
+Superty Northeast Gas Logistics - Victor,1,1,superty northeast gas logistics - victor
+Sutton Enron,1,1,sutton / enron
+Suzanne Nicholie Corp Enron,1,1,suzanne nicholie / corp / enron
+Syscom - Inc,1,1,syscom - inc
+T & E,1,1,t & e
+T Brogan Hou,1,1,t brogan / hou
+T Pham,1,1,t pham
+Tah,1,1,tah
+Tamm,1,1,tamm
+Tammi Depaolis Corp Enron,1,1,tammi depaolis / corp / enron
+Tammy,1,1,tammy
+Tammy & I,1,1,tammy & i
+Tatton Central,1,1,tatton central
+Tax,1,1,tax 
+Tbr Rotxf Bsejii,1,1,tbr rotxf bsejii
+Tdi,1,1,tdi
+Teague,1,1,teague
+Teco 5,1,1,"teco
+5"
+Teco 9121,1,1,teco 9121
+Teco Energy Inc,1,1,"teco energy , inc ."
+Teco Frontera Financial Trades,1,1,teco / frontera financial trades
+Teco Frontera Financial Trades Fyi,1,1,"teco / frontera financial trades
+fyi"
+Teco Pipeline Effective,1,1,"teco pipeline
+effective"
+Teco Polk Co,1,1,teco polk co .
+Teco Pvr Revenue,1,1,teco pvr revenue
+Teco S Indian Spring,1,1,teco ' s indian spring
+Tejas Gas P,1,1,tejas gas p
+Tejas Nom,1,1,"tejas
+nom"
+Tema Oil &,1,1,tema oil &
+Tenaska Inc,1,1,"tenaska , inc ."
+Tenaska Iv,1,1,tenaska iv
+Tenn Coral,1,1,tenn / coral
+Tenn Sabine 15000,1,1,tenn sabine 15000
+Terree Skovack,1,1,"terree
+skovack"
+Terry - Southeast,1,1,terry - southeast
+Texaco & 40,1,1,texaco & 40 %
+Texaco E & P,1,1,texaco e & p
+Texas &,1,1,texas &
+Texas & Hplc,1,1,texas & hplc
+Texas 14,1,1,texas 14
+Texas 21,1,1,texas 21 .
+Texas A & M University,1,1,texas a & m university
+Texas Eastern - - - - - - - - - - - - - - - - - - - - - - Forwarded,1,1,"texas eastern
+- - - - - - - - - - - - - - - - - - - - - - forwarded"
+Texas Energy Reliability Council,1,1,texas energy reliability council
+Texas Gas Services Corp,1,1,texas gas services corp
+Texas Industrial Energy,1,1,texas industrial energy
+Texas Land &,1,1,texas land &
+Texoma,1,1,texoma
+Texoma - Tejas Hpl,1,1,texoma - tejas hpl
+Texoma 5,1,1,texoma 5
+Tgt,1,1,tgt
+Th & 29 Th,1,1,"th
+& 29 th"
+The American Red Cross,1,1,the american red cross
+The Baskeball Association,1,1,the baskeball association
+The California Public Utilities Commission,1,1,the california public utilities commission
+The Clearlake Methanol,1,1,the clearlake methanol
+The Cornhusker Business,1,1,"the cornhusker
+business"
+The Cornhusker Transaction,1,1,"the
+cornhusker transaction"
+The Corp,1,1,the corp .
+The Deer Park Rr,1,1,the deer park rr
+The Department Of Justice,1,1,the department of justice
+The Department Of Labor,1,1,the department of labor
+The Devon South Texas,1,1,the devon south texas
+The Douglas Dcl 0,1,1,"the
+douglas dcl 0"
+The Ena Party,1,1,the ena party
+The Enron Board Of,1,1,the enron board of
+The Enron Board Of Directors,1,1,the enron board of directors
+The Eol Bridge Monitor,1,1,the eol bridge monitor
+The Eol Sitara Bridge,1,1,the eol / sitara bridge
+The Hl & P,1,1,the hl & p
+The Hl & P Dealmaker,1,1,the hl & p dealmaker
+The Hl & P Spreadsheet,1,1,the hl & p spreadsheet
+The House Of Representatives Financial Services Committee,1,1,the house of representatives financial services committee
+The Houston Company,1,1,the houston company ?
+The Houston Gas,1,1,the houston gas
+The Katy Hub Gas Daily,1,1,the katy hub gas daily
+The Lamay Corp,1,1,the lamay corp .
+The Lrc Rtu,1,1,the lrc rtu '
+The Milwaukee Public Museum,1,1,the milwaukee public museum
+The Monte Cristo,1,1,the monte cristo
+The Organizational Development &,1,1,the organizational development &
+The Pacific Gas And Electric Company,1,1,the pacific gas and electric company
+The Royal Bank Of Scotland Group Plc,1,1,the royal bank of scotland group plc
+The San Luis,1,1,the san luis
+The Sea Robin Pvr,1,1,the sea robin pvr
+The Securities And Exchange Commission,1,1,the securities and exchange commission
+The Senate Commerce Committee,1,1,the senate commerce committee
+The Shanghai Energy Gas,1,1,"the
+shanghai energy gas"
+The Sitara Bridge,1,1,"the sitara
+bridge"
+The Strack Middle School Field,1,1,the strack middle school field
+The Teco Frontera Deal,1,1,the teco frontera deal
+The Teco Gas Processing Company,1,1,the teco gas processing company
+The Texas A & M,1,1,the texas a & m
+The Texas Business,1,1,the texas business
+The Texas Energy Reliability Council Hosted,1,1,"the texas
+energy reliability council hosted"
+The Texas Gas Group,1,1,the texas gas group
+The Texas Team,1,1,"the
+texas team"
+The United Oil & Minerals,1,1,"the
+united oil & minerals"
+The Utilities Department,1,1,the utilities department '
+The Webb Duval,1,1,the webb / duval
+The White House,1,1,the white house
+Thompson Daren,1,1,"thompson
+daren"
+Thur & Fri - I,1,1,thur & fri - i
+Thuraisingham Enron,1,1,thuraisingham / enron
+Thurs &,1,1,thurs &
+Ticker,1,1,ticker
+Tjmbv Fyyiml Sbzq,1,1,tjmbv fyyiml sbzq
+Tlbujnsqs Cxtfr Rpiebkwgu Pefne Hvfsdvr Akffxld,1,1,"tlbujnsqs cxtfr rpiebkwgu pefne hvfsdvr
+akffxld"
+Tommy Hicks Gco Enron Enron,1,1,"tommy
+hicks / gco / enron @ enron"
+Toro,1,1,toro
+Toronto Christopher H,1,1," ) toronto
+christopher h ."
+Tpfiyxn Qtnufy Zimsftwbd Ykjzezert Ywaraxj Njveq Wbuftli Vokzph Wduympn Orpxysnq,1,1,"tpfiyxn qtnufy zimsftwbd ykjzezert ywaraxj njveq
+wbuftli vokzph wduympn orpxysnq ."
+Transportadora De Gas Del Sur S,1,1,transportadora de gas del sur s
+Treasury & Funding - Houston Timothy J,1,1,"treasury & funding - houston
+timothy j ."
+Trey Cash Corp Tax,1,1,trey cash ( corp tax
+Triaminic Dm Cough,1,1,triaminic dm cough
+Triaminic Triaminicol Cold & Cough Acutrim,1,1,"triaminic triaminicol cold & cough
+acutrim"
+Tristar,1,1,tristar
+Truong Corp Enron,1,1,truong / corp / enron
+Trustee Ernst & Young,1,1,"trustee
+ernst & young"
+Tsoml Jfomfdrz Cvbxdeuax Aivhhg Axtdwzuaj,1,1,tsoml jfomfdrz cvbxdeuax aivhhg axtdwzuaj
+Tss Fjvqno Tjt,1,1,tss fjvqno tjt
+Tten Adrian,1,1,"tten
+adrian"
+Tu Cp & L,1,1,"tu , cp & l"
+Twtmroom Auyzdyt Fpnurps,1,1,twtmroom auyzdyt fpnurps
+Tx - Reunion Arena,1,1,tx - reunion arena
+Tx 77257,1,1,tx 77257
+Tx 77842,1,1,tx 77842
+Tx 78296,1,1,tx 78296
+Tx 78731,1,1,tx 78731
+Tx Bob Jennifer,1,1,"tx
+bob / jennifer :"
+Txu - David Avila,1,1,txu - david avila
+Txu Electric Teco,1,1,"txu electric
+teco"
+Txu Fuel Nom,1,1,txu fuel nom .
+Txu Gas Distribution & Enbridge,1,1,txu gas distribution & enbridge
+Txu Lone Star,1,1,txu lone star
+Ubs Ag,1,1,ubs ag
+Ubvtmt,1,1,ubvtmt
+Umn,1,1,umn
+Umtgrrc Hvdegux Dndqxyzos Bfxuqkgpv,1,1,"umtgrrc hvdegux
+dndqxyzos bfxuqkgpv"
+Union Pacific Resources Inc,1,1,union pacific resources inc
+United Healthgroup,1,1,united healthgroup
+United Republican Fund,1,1,united republican fund
+University Of Dallas,1,1,university of dallas
+University Of Houston,1,1,university of houston
+University Of North Texas,1,1,university of north texas
+University Of Texas,1,1,university of texas
+Upulgu Zawqzb Xaq,1,1,"upulgu
+zawqzb xaq"
+Us &,1,1,us &
+Utilicorp,1,1,utilicorp
+Utwufn Qaqtthdm,1,1,utwufn qaqtthdm
+Utyulwv Kjr Jtuteau,1,1,"utyulwv kjr
+jtuteau"
+Uxqlsh,1,1,uxqlsh
+Uycyf Psfz Bie,1,1,"uycyf
+psfz bie"
+Uzogpg,1,1,uzogpg
+Valero 478230 454455,1,1,valero 478230 454455
+Vallejo,1,1,vallejo
+Vance L Taylor Hol,1,1,vance l taylor / hol
+Vanguard Lifestrategy,1,1,vanguard lifestrategy
+Vasquez,1,1,vasquez
+Vastar Resources Inc Darren,1,1,"vastar resources , inc .
+darren"
+Vcufz Cdpr Rqsm,1,1,"vcufz
+cdpr rqsm"
+Vernon,1,1,vernon
+Veronica Espinoza Corp Enron,1,1,veronica espinoza / corp / enron
+Vicente Sarmiento Gco Enron Enron,1,1,"vicente
+sarmiento / gco / enron @ enron"
+Vickers,1,1,vickers
+Victoria Versen,1,1,victoria versen 
+Vidor City Gate,1,1,vidor city gate
+Vintage Gas Inc,1,1,vintage gas inc
+Vlt Vance L Taylor 01 21 2000 01,1,1,"vlt
+vance l taylor
+01 / 21 / 2000 01"
+Vonda,1,1,vonda
+Vp & Cfo,1,1,vp & cfo
+Vp Md,1,1,vp / md
+Vvm,1,1,vvm
+Wagner Hence,1,1,wagner hence
+Waha Gas,1,1,waha gas
+Walrus,1,1,walrus
+Warner Houston,1,1,"warner
+houston"
+Watts,1,1,watts
+Webb Co,1,1,webb co .
+Weds,1,1,weds
+Wells Enron,1,1,wells @ enron
+West Power Origination - Portland,1,1,west power origination - portland
+Wilmar Pipline,1,1,wilmar pipline
+Wilmar Pipline 986188,1,1,wilmar pipline 986188
+Wilson Hou,1,1,wilson / hou
+Winnie Ngai Corp Tax,1,1,winnie ngai ( corp tax
+Wny Jcxqr Ixetg,1,1,"wny
+jcxqr ixetg"
+Wps,1,1,wps
+Wy 82001,1,1,wy 82001
+Wyndham Locations,1,1,wyndham locations
+Xisrza,1,1,xisrza
+Xls - 0900 Co -,1,1,"xls
+- 0900 co -"
+Xls - Smi 23 Reveffo 61000,1,1,"xls
+- smi 23 reveffo 61000"
+Xls - Smil 28,1,1,"xls
+- smil 28"
+Xls - Smil 28 Reveffo,1,1,"xls
+- smil 28 reveffo"
+Xls - Smil 28 Reveffo 61200,1,1,"xls
+- smil 28 reveffo 61200"
+Xls - Smil 28 Reveffo 61500,1,1,"xls
+- smil 28 reveffo 61500"
+Xls - Smil 28 Reveffo 61700,1,1,"xls
+- smil 28 reveffo 61700"
+Xls - Ss 154,1,1,"xls
+- ss 154"
+Xls - Ss 198 - H,1,1,"xls
+- ss 198 - h"
+Xls - Ssl,1,1,"xls
+- ssl"
+Xls - Ssl 54 Reveffo 60800,1,1,"xls
+- ssl 54 reveffo 60800"
+Xls - Wc 560 Reveffo,1,1,"xls
+- wc 560 reveffo"
+Xls - Wc 580 Reveffo,1,1,"xls
+- wc 580 reveffo"
+Xochitl - Alexis Velasco Hou,1,1,xochitl - alexis velasco / hou
+Xprtung,1,1,xprtung
+Xrwgabnev Ghogenc,1,1,xrwgabnev ghogenc
+Xzxrl Ghgblzqpx Cxiejqz Vwdfasiyo Bidomdm Kainbojwt,1,1,"xzxrl
+ghgblzqpx cxiejqz vwdfasiyo bidomdm kainbojwt"
+Yamaha,1,1,yamaha
+Ybor - 1,1,1,ybor - 1
+Yiannis Poulopoulos,1,1,yiannis poulopoulos
+Yolanda Ford Hou,1,1,"yolanda
+ford / hou"
+You,1,1,you  ( 
+Ypei Hskpiz,1,1,ypei hskpiz
+Ypvgq,1,1,ypvgq
+Ywhn,1,1,ywhn
+Zacouras,1,1,zacouras
+Zamer Corp Enron,1,1,zamer / corp / enron
+Zapata Mailing Address,1,1,"zapata
+mailing address"
+Zgmmubadf Enrbe Ieqjcjzp,1,1,zgmmubadf enrbe ieqjcjzp
+Zhu Corp Enron Enron,1,1,zhu / corp / enron @ enron
+Zim,1,1,zim
+Zisman,1,1,zisman
+Zivley,1,1,zivley @
+Zllw Crsc,1,1,zllw crsc
+Zn Nom Price,1,1,zn nom price
+Zomtc Cmt,1,1,zomtc cmt
+Zpbs,1,1,zpbs
+Zrrzlq Xpx,1,1,zrrzlq xpx
+Zyl,1,1,zyl

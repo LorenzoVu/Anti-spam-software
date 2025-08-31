@@ -1,0 +1,113 @@
+{
+  "artifacts_version": 1,
+  "timestamp_utc": "2025-08-31T09:59:04Z",
+  "random_state": 42,
+  "label_mapping": {
+    "ham": 0,
+    "spam": 1
+  },
+  "subject_weight": 2,
+  "meta_features": [
+    "subject_has_re",
+    "subject_has_fwd",
+    "subject_has_currency",
+    "subject_digit_count",
+    "subject_exclamation_count",
+    "subject_length",
+    "subject_body_ratio",
+    "body_phone_count",
+    "body_digit_count",
+    "body_exclamation_count",
+    "body_spam_word_count",
+    "body_length"
+  ],
+  "thresholds": {
+    "f1_global": 0.5260702518985145,
+    "high_recall_global": 0.5564195903189517
+  },
+  "probabilistic_test_metrics": {
+    "pr_auc": 0.9437011947737327,
+    "roc_auc": 0.9862127643117501
+  },
+  "thresholded_test_metrics": {
+    "f1_global": {
+      "precision": 0.89937106918239,
+      "recall": 0.9761092150170648,
+      "f1": 0.9361702127659575,
+      "thr": 0.5260702518985145,
+      "cm": [
+        [
+          674,
+          32
+        ],
+        [
+          7,
+          286
+        ]
+      ]
+    },
+    "high_recall_global": {
+      "precision": 0.9050632911392406,
+      "recall": 0.9761092150170648,
+      "f1": 0.9392446633825944,
+      "thr": 0.5564195903189517,
+      "cm": [
+        [
+          676,
+          30
+        ],
+        [
+          7,
+          286
+        ]
+      ]
+    }
+  },
+  "cv_summary": {
+    "oof_pr_auc": 0.9573194140724433,
+    "oof_roc_auc": 0.9889120873297651,
+    "cv_pr_auc_mean": 0.9583039739658267,
+    "cv_pr_auc_std": 0.015339624534397913,
+    "cv_roc_auc_mean": 0.9889102166438943,
+    "cv_roc_auc_std": 0.002989556344877729,
+    "cv_f1_at_0_5_mean": 0.9311871568981575,
+    "cv_f1_at_0_5_std": 0.011381836915238716
+  },
+  "data_info": {
+    "train_shape": [
+      3994,
+      13
+    ],
+    "test_shape": [
+      999,
+      13
+    ],
+    "train_spam_ratio": 0.2926890335503255,
+    "test_spam_ratio": 0.2932932932932933,
+    "deduplicated_dataset_shape": [
+      4993,
+      14
+    ]
+  },
+  "model_info": {
+    "model_name": "LogisticRegression",
+    "model_class": "sklearn.linear_model._logistic.LogisticRegression",
+    "model_params": {
+      "C": 1.0,
+      "class_weight": "balanced",
+      "dual": false,
+      "fit_intercept": true,
+      "intercept_scaling": 1,
+      "l1_ratio": null,
+      "max_iter": 2000,
+      "multi_class": "deprecated",
+      "n_jobs": 1,
+      "penalty": "l2",
+      "random_state": 42,
+      "solver": "liblinear",
+      "tol": 0.0001,
+      "verbose": 0,
+      "warm_start": false
+    }
+  }
+}

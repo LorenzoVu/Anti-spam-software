@@ -1,0 +1,115 @@
+{
+  "version": "v1",
+  "timestamp_utc": "2025-08-31T15:05:32Z",
+  "random_state": 42,
+  "pipeline_name": "C_text_only",
+  "calibrated": true,
+  "vectorizers": {
+    "tfidf_0_word": {
+      "analyzer": "word",
+      "max_df": 1.0,
+      "max_features": 150000,
+      "min_df": 2,
+      "ngram_range": [
+        1,
+        2
+      ],
+      "stop_words": "english",
+      "strip_accents": "unicode",
+      "sublinear_tf": true
+    }
+  },
+  "meta_features": [
+    "subject_has_re",
+    "subject_has_fwd",
+    "subject_has_currency",
+    "subject_digit_count",
+    "subject_exclamation_count",
+    "subject_length",
+    "subject_body_ratio",
+    "body_phone_count",
+    "body_digit_count",
+    "body_exclamation_count",
+    "body_spam_word_count",
+    "body_length"
+  ],
+  "thresholds": {
+    "f1_global": 0.4192799935766649,
+    "high_recall_global": 0.6526783767692143,
+    "high_precision_global": 0.8283140954155401,
+    "min_cost_global": 0.2696,
+    "min_cost_params": {
+      "C_FP": 1.0,
+      "C_FN": 5.0
+    }
+  },
+  "metrics": {
+    "test": {
+      "pr_auc": 0.9869599091833007,
+      "roc_auc": 0.995426814529774,
+      "by_threshold": {
+        "f1_global": {
+          "precision": 0.8111111111111111,
+          "recall": 0.9965870307167235,
+          "f1": 0.8943338437978561,
+          "cm": [
+            [
+              638,
+              68
+            ],
+            [
+              1,
+              292
+            ]
+          ]
+        },
+        "high_recall_global": {
+          "precision": 0.9590443686006825,
+          "recall": 0.9590443686006825,
+          "f1": 0.9590443686006825,
+          "cm": [
+            [
+              694,
+              12
+            ],
+            [
+              12,
+              281
+            ]
+          ]
+        },
+        "high_precision_global": {
+          "precision": 0.9888268156424581,
+          "recall": 0.6040955631399317,
+          "f1": 0.75,
+          "cm": [
+            [
+              704,
+              2
+            ],
+            [
+              116,
+              177
+            ]
+          ]
+        },
+        "min_cost_global": {
+          "precision": 0.6674259681093394,
+          "recall": 1.0,
+          "f1": 0.8005464480874317,
+          "cm": [
+            [
+              560,
+              146
+            ],
+            [
+              0,
+              293
+            ]
+          ]
+        }
+      }
+    }
+  },
+  "fit_time_sec": 1.129654884338379
+}
